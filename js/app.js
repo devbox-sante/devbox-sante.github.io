@@ -384,7 +384,7 @@ $(document).ready(function(){
 // Slick Carousel Testimonial
 $('.testimonialList')
     .slick({
-        infinite: false,
+        infinite: true,
         slidesToShow: 2,
         slidesToScroll: 1,
         autoplay: true,
