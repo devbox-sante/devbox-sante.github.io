@@ -385,7 +385,7 @@ $(document).ready(function(){
 $('.testimonialList')
     .slick({
         infinite: false,
-        slidesToShow: 2,
+        slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 2000,
@@ -394,6 +394,13 @@ $('.testimonialList')
         arrows: false,
         dots: true,
         responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                }
+            },
             {
                 breakpoint: 769,
                 settings: {

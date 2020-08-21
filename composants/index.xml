@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Composants on DevBox _santé</title>
+    <title>Composants on DevBox santé</title>
     <link>https://www.devbox-sante.fr/composants/</link>
-    <description>Recent content in Composants on DevBox _santé</description>
+    <description>Recent content in Composants on DevBox santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
@@ -41,7 +41,7 @@ Intégration de plusieurs sources de données :
       <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
       <description>Comme la CPS-API, ce composant fournira une API Java et REST/JSON, permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
 Intéressé par le développement de ce connecteur ?
-Contactez-nous </description>
+Contactez-nous</description>
     </item>
     
     <item>
@@ -52,7 +52,7 @@ Contactez-nous </description>
       <guid>https://www.devbox-sante.fr/composants/documents-structures/</guid>
       <description>Partager des documents entre soignants au travers du DMP est un pré-requis.
 Partager ces mêmes données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.
-Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents structurés par notre DMPC-API :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale   Plus d&amp;rsquo;informations sur la documentation de la DMPC-API Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins :  Volet VSM – Synthèse médicale  Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant  Volet F-PRC – Fiches Patient à risque en cardiologie  &amp;hellip;  Intéressé par le développement d&amp;rsquo;un des documents structurés ?</description>
+Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents structurés par notre DMPC-API :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;informations sur la documentation de la DMPC-APIDevcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie &amp;hellip;  Intéressé par le développement d&amp;rsquo;un des documents structurés ?</description>
     </item>
     
   </channel>

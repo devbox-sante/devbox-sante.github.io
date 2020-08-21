@@ -3,44 +3,58 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://www.devbox-sante.fr/composants/cps/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/connecteurs/dmpc-api/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/composants/annuaire-sante/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/composants/sesam-vitale/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/composants/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/connecteurs/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/contact/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/composants/documents-structures/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/faq/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/mentions/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/connecteurs/ms-sante/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/expertises/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/connecteurs/teleservice-ins/</loc> 
+        <changefreq>monthly</changefreq>
     </url>
 </urlset>

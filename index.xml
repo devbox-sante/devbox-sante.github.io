@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevBox_santé on DevBox _santé</title>
+    <title>DevBox santé</title>
     <link>https://www.devbox-sante.fr/</link>
-    <description>Recent content in DevBox_santé on DevBox _santé</description>
+    <description>Recent content on DevBox santé</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
@@ -54,6 +54,15 @@ Intégration avec des objets connectés de santé.</description>
     </item>
     
     <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Annuaire Santé</title>
       <link>https://www.devbox-sante.fr/composants/annuaire-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -73,7 +82,7 @@ Intégration de plusieurs sources de données :
       <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
       <description>Comme la CPS-API, ce composant fournira une API Java et REST/JSON, permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
 Intéressé par le développement de ce connecteur ?
-Contactez-nous </description>
+Contactez-nous</description>
     </item>
     
     <item>
@@ -84,7 +93,7 @@ Contactez-nous </description>
       <guid>https://www.devbox-sante.fr/composants/documents-structures/</guid>
       <description>Partager des documents entre soignants au travers du DMP est un pré-requis.
 Partager ces mêmes données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.
-Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents structurés par notre DMPC-API :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale   Plus d&amp;rsquo;informations sur la documentation de la DMPC-API Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins :  Volet VSM – Synthèse médicale  Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant  Volet F-PRC – Fiches Patient à risque en cardiologie  &amp;hellip;  Intéressé par le développement d&amp;rsquo;un des documents structurés ?</description>
+Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents structurés par notre DMPC-API :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale  Plus d&amp;rsquo;informations sur la documentation de la DMPC-APIDevcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins :  Volet VSM – Synthèse médicale Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant Volet F-PRC – Fiches Patient à risque en cardiologie &amp;hellip;  Intéressé par le développement d&amp;rsquo;un des documents structurés ?</description>
     </item>
     
     <item>
@@ -111,10 +120,10 @@ Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/connecteurs/ms-sante/</guid>
-      <description>La MSSanté , Messagerie sécurisée de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&amp;rsquo;échanger par mail des données de santé.
+      <description>La MSSanté, Messagerie sécurisée de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&amp;rsquo;échanger par mail des données de santé.
 La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messagerie qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définies par l&amp;rsquo;ANS.
 Cet espace de confiance sécurisé comprend :
- un annuaire national MSSanté des professionnels une liste blanche des opérateurs  L&amp;rsquo;objectif de DEVCOOP est de fournir un connecteur vous permettant d&amp;rsquo;accéder facilement à ce Téléservice.</description>
+ un annuaire national MSSanté des professionnels une liste blanche des opérateurs  DEVCOOP fournira un connecteur permettant d&amp;rsquo;accéder facilement à ce Téléservice.</description>
     </item>
     
     <item>
@@ -171,8 +180,8 @@ Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
       
       <guid>https://www.devbox-sante.fr/connecteurs/teleservice-ins/</guid>
       <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA
- NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INS propose deux opérations
-  Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&amp;rsquo;état civil. Utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé.</description>
+ NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INSpropose deux opérations :
+  Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&amp;rsquo;état civil (utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé).</description>
     </item>
     
     <item>
