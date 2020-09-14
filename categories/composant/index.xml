@@ -27,32 +27,30 @@ Notamment :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/composants/annuaire-sante/</guid>
-      <description>L&amp;rsquo;Annuaire Santé est un service qui permet la recherche d&amp;rsquo;un professionnel de santé par son nom, sa spécialité, son adresse mais aussi sa géolocalisation.
-Gagnez du temps ! Nous vous proposons clé en main cet annuaire indexé accessible par une API REST/JSON.
-Intégration de plusieurs sources de données :
- le Répertoire Partagé des Professionnels de Santé (RPPS) le Répertoire des établissements (FINESS) la base Adresse Nationale  Intéressé par l&amp;rsquo;intégration de cet annuaire ?</description>
+      <description>L&amp;rsquo;annuaire santé proposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
+Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</description>
     </item>
     
     <item>
-      <title>API SESAM Vitale</title>
+      <title>API DevBox Santé Vitale</title>
       <link>https://www.devbox-sante.fr/composants/sesam-vitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
-      <description>Comme la CPS-API, ce composant fournira une API Java et REST/JSON, permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
-Intéressé par le développement de ce connecteur ?
-Contactez-nous </description>
+      <description>Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.
+La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.
+Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</description>
     </item>
     
     <item>
-      <title>Documents structurés</title>
+      <title>Structuration des donnnées de santé</title>
       <link>https://www.devbox-sante.fr/composants/documents-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/composants/documents-structures/</guid>
-      <description>Partager des documents entre soignants au travers du DMP est un pré-requis.
-Partager ces mêmes données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.
-Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents structurés par notre DMPC-API :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale   Plus d&amp;rsquo;informations sur la documentation de la DMPC-API Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins :  Volet VSM – Synthèse médicale  Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant  Volet F-PRC – Fiches Patient à risque en cardiologie  &amp;hellip;  Intéressé par le développement d&amp;rsquo;un des documents structurés ?</description>
+      <description>Parler de données de santé, implique de connaître un ensemble de normes. Êtes-vous familié des acronymes suivants : MOS, NOS, XDS, FHIR, HL7, HPRIM &amp;hellip;
+Bien sûr, il est possible de construire une application de santé sans les connaitre, mais toute application de santé est vouée à communiquer au sein d&amp;rsquo;un écosystème afin de partager des données entre soignants.
+Partager ces données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.</description>
     </item>
     
   </channel>

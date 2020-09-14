@@ -48,7 +48,7 @@
     <link rel="manifest" href="/favicon/manifest.json">
 
     
-    <link rel="stylesheet" href="https://www.devbox-sante.fr/scss/main.min.fffd449b2022ff011416c598718444572f9503f8b6d8cf62712f536e38b06278.css"/>
+    <link rel="stylesheet" href="https://www.devbox-sante.fr/scss/main.min.bb3771ffca650e9f7dc763a6b54023e3c687c560059d6e529ee2f56d6c216d16.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
 
 
@@ -159,7 +159,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-sesam.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">API SESAM Vitale</span>
+                                        <span class="dropdownTools-list-item-label">API DevBox Santé Vitale</span>
                                     </a>
                                     
                                     <a href="/composants/documents-structures/"
@@ -167,7 +167,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-doc.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">Documents structurés</span>
+                                        <span class="dropdownTools-list-item-label">Structuration des donnnées de santé</span>
                                     </a>
                                     
                                 </div>
@@ -257,7 +257,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-sesam.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">API SESAM Vitale</span>
+                                        <span class="dropdownTools-list-item-label">API DevBox Santé Vitale</span>
                                     </a>
                                     
                                     <a href="/composants/documents-structures/"
@@ -265,7 +265,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-doc.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">Documents structurés</span>
+                                        <span class="dropdownTools-list-item-label">Structuration des donnnées de santé</span>
                                     </a>
                                     
                                 </div>
@@ -318,43 +318,61 @@
 
 <div id="sectionAboutTool" class="section">
     <div class="section-inner-wrapper">
-        <div class="grid-x align-middle">
-            <div class="cell small-24 medium-12">
+        <div class="grid-x align-middle grid-padding-x">
+            <div class="cell small-24 medium-16 text-justify">
                 <h1 class="title-section _dmpc">À propos de l'outil</h1>
-                <p><p>La DMPC-API est un connecteur EAI qui s&rsquo;interface avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&rsquo;intéropérabilité avec le DMP.</p>
+                <p><p>Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&hellip; 
+Il permet de partager ces informations avec les professionnels de santé qui en ont besoin.</p>
+<p>Afin de récupérer ou d&rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur.
+Vous pouvez décider d&rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions 
+ou de déléguer cette complexité à un éditeur spécialisé.</p>
+<p> </p>
+<p><strong>La DMPC-API est un connecteur EAI qui s&rsquo;interface avec le DMP.</strong></p>
+<p>Elle prend en charge la complexité de l&rsquo;intégration et facilite ainsi aux éditeurs de logiciel de santé l&rsquo;intéropérabilité avec le DMP en vous fournissant une API simple à utiliser.</p>
+<p> </p>
+<hr>
 <p><strong>La force de cette API :</strong></p>
 <ul>
-<li>simplicité de sa mise en oeuvre</li>
+<li>simplicité de sa mise en oeuvre.</li>
 <li>utilisation des librairies référentes du marché (Apache CXF, Apache Santuario, SpringBoot).</li>
+<li>régulièrement mise à jour pour suivre les évolutions des spécifications.</li>
 </ul>
 <hr>
 <p><strong>Trois manières d&rsquo;intégrer la DMPC-API :</strong></p>
 <ul>
 <li>Embedded : directement dans vos modules SpringBoot Java.</li>
-<li>ProxyWS : via des WebServices SOAP</li>
-<li>ProxyREST : via une API REST / JSON</li>
+<li>ProxyWS : via des WebServices SOAP.</li>
+<li>ProxyREST : via une API REST / JSON.</li>
 </ul>
 <hr>
 <p><strong>Deux manières de s&rsquo;authentifier :</strong></p>
 <ul>
 <li>Authentification directe en utilisant la CPS-API.</li>
-<li>Authentification indirecte en utilisant un certificat serveur</li>
+<li>Authentification indirecte en utilisant un certificat serveur.</li>
 </ul>
 <hr>
 <p><strong>Trois profils fonctionnels :</strong></p>
 <ul>
-<li>Alimentation DMP</li>
-<li>Consultation DMP</li>
-<li>Gestion administrative du DMP</li>
+<li>Alimentation DMP.</li>
+<li>Consultation DMP.</li>
+<li>Gestion administrative du DMP.</li>
 </ul>
 <hr>
+<p><strong>Nos garanties :</strong></p>
+<ul>
+<li>Ce connecteur est homologué DMP v2 par le CNDA <img src="/img/png/DMPcompatible_small.png" alt="">. Elle avait précédemment été homologuée par l&rsquo;ASIP santé (ANS) en DMP v1.</li>
+<li>Nous permettons de tester gratuitement cette API afin de valider votre choix.</li>
+<li>Plusieurs éditeurs utilisent déjà ce connecteur pour leur logiciel de santé et ceci depuis 2013.</li>
+</ul>
+<hr>
+<p> </p>
 <p><strong>Un aperçu des possibilités de la DMPC-API ?</strong></p>
 <p>Consultez le site : <a href="https://dmp.devcoop.fr" target="_blank" rel="noopener" target="_blank" rel="noopener">https://dmp.devcoop.fr</a>
 </p>
 </p>
             </div>
-            <div class="cell small-24 medium-12 text-center">
-                <img src="/img/connecteurs/dmpc-api.png" data-parallax='{"y":"2%"}'>
+            <div class="cell small-24 medium-8 text-center">
+                <img src="/img/connecteurs/dmpc-schema.png" data-parallax='{"y":"2%"}'>
             </div>
         </div>
     </div>
@@ -450,9 +468,9 @@
                 
                 <li class="siteMap-list-item"><a href="/composants/annuaire-sante/">Annuaire Santé</a></li>
                 
-                <li class="siteMap-list-item"><a href="/composants/sesam-vitale/">API SESAM Vitale</a></li>
+                <li class="siteMap-list-item"><a href="/composants/sesam-vitale/">API DevBox Santé Vitale</a></li>
                 
-                <li class="siteMap-list-item"><a href="/composants/documents-structures/">Documents structurés</a></li>
+                <li class="siteMap-list-item"><a href="/composants/documents-structures/">Structuration des donnnées de santé</a></li>
                 
             </ul>
             <ul class="siteMap-list">

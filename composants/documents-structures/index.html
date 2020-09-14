@@ -16,7 +16,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Documents structurés - DevBox santé</title>
+    <title>Structuration des donnnées de santé - DevBox santé</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="permet de partager des données de santé interopérables" />
     <meta name="author" content="DEVCOOP Consulting" />
@@ -24,7 +24,7 @@
 
     <meta content="permet de partager des données de santé interopérables" property="og:description">
     <meta content="https://www.devbox-sante.fr/img/svg/logo-for-whiteBg.svg" property="og:image">
-    <meta content="Documents structurés - DevBox santé" property="og:site_name">
+    <meta content="Structuration des donnnées de santé - DevBox santé" property="og:site_name">
     <meta content="fr-fr" property="og:locale">
     <meta name="robots" content="index, follow">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -48,7 +48,7 @@
     <link rel="manifest" href="/favicon/manifest.json">
 
     
-    <link rel="stylesheet" href="https://www.devbox-sante.fr/scss/main.min.fffd449b2022ff011416c598718444572f9503f8b6d8cf62712f536e38b06278.css"/>
+    <link rel="stylesheet" href="https://www.devbox-sante.fr/scss/main.min.bb3771ffca650e9f7dc763a6b54023e3c687c560059d6e529ee2f56d6c216d16.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
 
 
@@ -159,7 +159,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-sesam.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">API SESAM Vitale</span>
+                                        <span class="dropdownTools-list-item-label">API DevBox Santé Vitale</span>
                                     </a>
                                     
                                     <a href="/composants/documents-structures/"
@@ -167,7 +167,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-doc.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">Documents structurés</span>
+                                        <span class="dropdownTools-list-item-label">Structuration des donnnées de santé</span>
                                     </a>
                                     
                                 </div>
@@ -257,7 +257,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-sesam.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">API SESAM Vitale</span>
+                                        <span class="dropdownTools-list-item-label">API DevBox Santé Vitale</span>
                                     </a>
                                     
                                     <a href="/composants/documents-structures/"
@@ -265,7 +265,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-doc.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">Documents structurés</span>
+                                        <span class="dropdownTools-list-item-label">Structuration des donnnées de santé</span>
                                     </a>
                                     
                                 </div>
@@ -291,7 +291,7 @@
 <div id="sectionToolsIntro" class="sectionToolsIntro _doc">
     <div class="grid-x align-middle section-inner-wrapper">
         <div class="cell small-24 large-12 text-left">
-            <h1 class="txt-white title-big">Documents structurés</h1>
+            <h1 class="txt-white title-big">Structuration des donnnées de santé</h1>
             <p class="txt-white">permet de partager des données de santé interopérables</p>
             <br>
             <a href="#sectionAboutTool"
@@ -319,11 +319,27 @@
 
 <div id="sectionAboutTool" class="section">
     <div class="section-inner-wrapper">
-        <div class="grid-x align-middle">
-            <div class="cell small-24 medium-12">
+        <div class="grid-x align-middle grid-padding-x">
+            <div class="cell small-24 medium-16 text-justify">
                 <h1 class="title-section _doc">À propos de l'outil</h1>
-                <p>Partager des documents entre soignants au travers du DMP est un pré-requis.</p>
-<p>Partager ces mêmes données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.</p>
+                <p>Parler de données de santé, implique de connaître un ensemble de normes. Êtes-vous familié des acronymes suivants : MOS, NOS, XDS, FHIR, HL7, HPRIM &hellip;</p>
+<p>Bien sûr, il est possible de construire une application de santé sans les connaitre, mais toute application de santé est vouée à communiquer au sein d&rsquo;un écosystème afin de partager des données entre soignants.</p>
+<p>Partager ces données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.</p>
+<p><strong>Quelques normes à connaitre :</strong></p>
+<ul>
+<li><a href="https://esante.gouv.fr/interoperabilite/mos-nos" target="_blank" rel="noopener" target="_blank" rel="noopener">MOS</a>
+ : Le MOS (Modèle des Objets de Santé) décrit de manière homogène et neutre vis-à-vis des technologies. Il offre une description commune et mutualisée des données de santé utilisées dans les systèmes d’information et leurs échanges.
+Certains concepts du MOS (code) s&rsquo;appuient sur les nomenclatures des objets de santé (NOS), c&rsquo;est à dire des listes de codes-libellés.</li>
+<li><a href="https://esante.gouv.fr/interoperabilite/mos-nos" target="_blank" rel="noopener" target="_blank" rel="noopener">NOS</a>
+ : Le NOS (Nomenclature des Objets de Santé) est l&rsquo;ensemble des nomenclatures utilisées pour décrire une données de santé. On y trouve des données spécifique à la santé comme par exemple les spécialités des professionnels de santé mais également des données plus générales comme les titres de civilité (Pr, M., Mme, &hellip;) ou les types de rues. Le NOS compte plus de 300 nomenclatures.</li>
+<li><a href="https://hl7.org/FHIR/" target="_blank" rel="noopener" target="_blank" rel="noopener">HL7 - FHIR</a>
+ : FHIR est un standard international proposé par HL7 pour l&rsquo;échange de données de santé. Son champ d&rsquo;application est très vaste, il couvre aussi bien la stucture de la données à échanger que la manière dont il faut l&rsquo;échanger.</li>
+<li><a href="https://www.hl7.org/implement/standards/product_brief.cfm?product_id=7" target="_blank" rel="noopener" target="_blank" rel="noopener">HL7 - CDA</a>
+ : Le standard CDA (Clinical Document Architecture) est une norme, mise en œuvre dans le DMP, définissant la sémantique des documents cliniques pour l&rsquo;échange de données.</li>
+<li><a href="https://www.ihe.net/resources/technical_frameworks/#IT" target="_blank" rel="noopener" target="_blank" rel="noopener">IHE - XDS</a>
+ : le standard IHE XDS (Cross-Enterprise Document Sharing) est un standard permettant le partage sécurisé de documents cliniques (compte-rendu, images DICOM, résultats de laboratoire), il est également mis en œuvre dans le DMP.</li>
+<li>HPRIM : la norme HPRIM (Harmoniser et PRomouvoir l&rsquo;Informatique Médicale) est un format utilisé en France pour la transmission des résultats de biologie.</li>
+</ul>
 <p>Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents structurés par notre DMPC-API :  </p>
 <ul>
 <li><a href="https://esante.gouv.fr/volet-cr-bio-compte-rendu-dexamens-de-biologie-medicale" target="_blank" rel="noopener" target="_blank" rel="noopener">Volet CR-BIO – Compte-rendu d&rsquo;examens de biologie médicale</a>
@@ -331,8 +347,11 @@
 </ul>
 <p>Plus d&rsquo;informations sur la documentation de la <a href="/connecteurs/dmpc-api">DMPC-API</a>
 </p>
-<p>Devcoop s&rsquo;engage à développer d&rsquo;autres volets du cadre d&rsquo;intéropérabilité selon vos besoins : </p>
+<p> </p>
+<p>Devcoop, de part son expérience à utiliser ces normes, peut vous accompagner à structurer votre application ou à développer des interfaces respectant le cadre d&rsquo;intéropérabilité selon vos besoins : </p>
 <ul>
+<li><a href="https://esante.gouv.fr/interoperabilite/mos-nos" target="_blank" rel="noopener" target="_blank" rel="noopener">MOS - NOS</a>
+</li>
 <li><a href="https://esante.gouv.fr/volet-vsm-synthese-medicale" target="_blank" rel="noopener" target="_blank" rel="noopener">Volet VSM – Synthèse médicale</a>
 </li>
 <li><a href="https://esante.gouv.fr/volet-cse-certificats-de-sante-de-lenfant" target="_blank" rel="noopener" target="_blank" rel="noopener">Volet CSE – Certificats de Santé de l&rsquo;Enfant</a>
@@ -341,12 +360,13 @@
 </li>
 <li>&hellip;</li>
 </ul>
-<p>Intéressé par le développement d&rsquo;un des documents structurés ?</p>
+<p> </p>
+<p>Intéressé par la structuration de vos données de santé ?</p>
 <p><a href="/contact">Contactez-nous</a>
 </p>
 
             </div>
-            <div class="cell small-24 medium-12 text-center">
+            <div class="cell small-24 medium-8 text-center">
                 <img src="/img/composants/doc-structure.png" data-parallax='{"y":"2%"}'>
             </div>
         </div>
@@ -400,7 +420,7 @@
                 </div>
                 
                 
-                <div class="componentsBox-item card _hover cell small-24 medium-12 large-auto comingSoon">
+                <div class="componentsBox-item card _hover cell small-24 medium-12 large-auto ">
                     <a href="/composants/sesam-vitale/" class="card-section grid-x grid-padding-x align-center">
                         <div class="cell small-24 medium-shrink text-center">
                             <img src="/img/svg/icon-small-sesam.svg">
@@ -409,7 +429,7 @@
                             <br>
                         </div>
                         <div class="cell small-24 text-center">
-                            <span class="componentBox-item-title title-medium txt-sesam">API SESAM Vitale</span>
+                            <span class="componentBox-item-title title-medium txt-sesam">API DevBox Santé Vitale</span>
                         </div>
                         <div class="cell small-24 text-center">
                             <small class="connectorsBox-item-nav">Explorer le composant <i
@@ -466,9 +486,9 @@
                 
                 <li class="siteMap-list-item"><a href="/composants/annuaire-sante/">Annuaire Santé</a></li>
                 
-                <li class="siteMap-list-item"><a href="/composants/sesam-vitale/">API SESAM Vitale</a></li>
+                <li class="siteMap-list-item"><a href="/composants/sesam-vitale/">API DevBox Santé Vitale</a></li>
                 
-                <li class="siteMap-list-item"><a href="/composants/documents-structures/">Documents structurés</a></li>
+                <li class="siteMap-list-item"><a href="/composants/documents-structures/">Structuration des donnnées de santé</a></li>
                 
             </ul>
             <ul class="siteMap-list">

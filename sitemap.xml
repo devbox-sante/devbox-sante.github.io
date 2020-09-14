@@ -34,10 +34,6 @@
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.devbox-sante.fr/composants/documents-structures/</loc> 
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
         <loc>https://www.devbox-sante.fr/faq/</loc> 
         <changefreq>monthly</changefreq>
     </url>
@@ -51,6 +47,10 @@
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/expertises/</loc> 
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.devbox-sante.fr/composants/documents-structures/</loc> 
         <changefreq>monthly</changefreq>
     </url>
     <url>

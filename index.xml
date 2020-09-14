@@ -27,10 +27,8 @@ Notamment :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/connecteurs/dmpc-api/</guid>
-      <description>La DMPC-API est un connecteur EAI qui s&amp;rsquo;interface avec le DMP. Elle facilite aux éditeurs de logiciel de santé l&amp;rsquo;intéropérabilité avec le DMP.
-La force de cette API :
- simplicité de sa mise en oeuvre utilisation des librairies référentes du marché (Apache CXF, Apache Santuario, SpringBoot).   Trois manières d&amp;rsquo;intégrer la DMPC-API :
- Embedded : directement dans vos modules SpringBoot Java. ProxyWS : via des WebServices SOAP ProxyREST : via une API REST / JSON   Deux manières de s&amp;rsquo;authentifier :</description>
+      <description>Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&amp;hellip; Il permet de partager ces informations avec les professionnels de santé qui en ont besoin.
+Afin de récupérer ou d&amp;rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur. Vous pouvez décider d&amp;rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions ou de déléguer cette complexité à un éditeur spécialisé.</description>
     </item>
     
     <item>
@@ -68,32 +66,19 @@ Intégration avec des objets connectés de santé.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/composants/annuaire-sante/</guid>
-      <description>L&amp;rsquo;Annuaire Santé est un service qui permet la recherche d&amp;rsquo;un professionnel de santé par son nom, sa spécialité, son adresse mais aussi sa géolocalisation.
-Gagnez du temps ! Nous vous proposons clé en main cet annuaire indexé accessible par une API REST/JSON.
-Intégration de plusieurs sources de données :
- le Répertoire Partagé des Professionnels de Santé (RPPS) le Répertoire des établissements (FINESS) la base Adresse Nationale  Intéressé par l&amp;rsquo;intégration de cet annuaire ?</description>
+      <description>L&amp;rsquo;annuaire santé proposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
+Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</description>
     </item>
     
     <item>
-      <title>API SESAM Vitale</title>
+      <title>API DevBox Santé Vitale</title>
       <link>https://www.devbox-sante.fr/composants/sesam-vitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
-      <description>Comme la CPS-API, ce composant fournira une API Java et REST/JSON, permettant d&amp;rsquo;accéder à l&amp;rsquo;ensemble des fonctionnalités de la carte vitale.
-Intéressé par le développement de ce connecteur ?
-Contactez-nous </description>
-    </item>
-    
-    <item>
-      <title>Documents structurés</title>
-      <link>https://www.devbox-sante.fr/composants/documents-structures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.devbox-sante.fr/composants/documents-structures/</guid>
-      <description>Partager des documents entre soignants au travers du DMP est un pré-requis.
-Partager ces mêmes données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.
-Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents structurés par notre DMPC-API :  Volet CR-BIO – Compte-rendu d&amp;rsquo;examens de biologie médicale   Plus d&amp;rsquo;informations sur la documentation de la DMPC-API Devcoop s&amp;rsquo;engage à développer d&amp;rsquo;autres volets du cadre d&amp;rsquo;intéropérabilité selon vos besoins :  Volet VSM – Synthèse médicale  Volet CSE – Certificats de Santé de l&amp;rsquo;Enfant  Volet F-PRC – Fiches Patient à risque en cardiologie  &amp;hellip;  Intéressé par le développement d&amp;rsquo;un des documents structurés ?</description>
+      <description>Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.
+La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.
+Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</description>
     </item>
     
     <item>
@@ -123,7 +108,7 @@ Exemple, partager les compte-rendu Biologiques grâce à la gestion de documents
       <description>La MSSanté , Messagerie sécurisée de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&amp;rsquo;échanger par mail des données de santé.
 La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messagerie qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définies par l&amp;rsquo;ANS.
 Cet espace de confiance sécurisé comprend :
- un annuaire national MSSanté des professionnels une liste blanche des opérateurs  DEVCOOP fournira un connecteur permettant d&amp;rsquo;accéder facilement à ce Téléservice.</description>
+ un annuaire national MSSanté des professionnels une liste blanche des opérateurs  Ce connecteur qui en cours de développement permettra d&amp;rsquo;accéder facilement à ce Téléservice.</description>
     </item>
     
     <item>
@@ -174,14 +159,26 @@ Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
     </item>
     
     <item>
+      <title>Structuration des donnnées de santé</title>
+      <link>https://www.devbox-sante.fr/composants/documents-structures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devbox-sante.fr/composants/documents-structures/</guid>
+      <description>Parler de données de santé, implique de connaître un ensemble de normes. Êtes-vous familié des acronymes suivants : MOS, NOS, XDS, FHIR, HL7, HPRIM &amp;hellip;
+Bien sûr, il est possible de construire une application de santé sans les connaitre, mais toute application de santé est vouée à communiquer au sein d&amp;rsquo;un écosystème afin de partager des données entre soignants.
+Partager ces données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.</description>
+    </item>
+    
+    <item>
       <title>Téléservice INS</title>
       <link>https://www.devbox-sante.fr/connecteurs/teleservice-ins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/connecteurs/teleservice-ins/</guid>
-      <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA
- NIR : Numéro d&amp;rsquo;inscription au répertoire national des personnes physiques NIA : Numéro d&amp;rsquo;identifiant en attente.  Le téléservice INS propose deux opérations :
-  Récupérer l&amp;rsquo;INS et des traits d&amp;rsquo;identité de l&amp;rsquo;état civil (utile dans le cadre d&amp;rsquo;une prise en charge d&amp;rsquo;un patient par un professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé).</description>
+      <description>L&amp;rsquo;INS est l&amp;rsquo;identifiant national de santé permettant de référencer les données de Santé.
+Il est l&amp;rsquo;un des piliers de la feuille de route du virage numérique de Ma santé 2022.
+L’utilisation de l’INS et des traits d’identité pour référencer les données de santé sera obligatoire au 1er janvier 2021. Ce référencement des données de santé avec l’INS est indispensable afin d’éviter des erreurs d’identification des personnes prises en charge.
+  Deux types de numéros sont disponibles pour l&amp;rsquo;INS :</description>
     </item>
     
     <item>

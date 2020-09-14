@@ -384,8 +384,8 @@ $(document).ready(function(){
 // Slick Carousel Testimonial
 $('.testimonialList')
     .slick({
-        infinite: true,
-        slidesToShow: 2,
+        infinite: false,
+        slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 2000,
@@ -394,6 +394,13 @@ $('.testimonialList')
         arrows: false,
         dots: true,
         responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                }
+            },
             {
                 breakpoint: 769,
                 settings: {

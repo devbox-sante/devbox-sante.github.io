@@ -48,7 +48,7 @@
     <link rel="manifest" href="/favicon/manifest.json">
 
     
-    <link rel="stylesheet" href="https://www.devbox-sante.fr/scss/main.min.fffd449b2022ff011416c598718444572f9503f8b6d8cf62712f536e38b06278.css"/>
+    <link rel="stylesheet" href="https://www.devbox-sante.fr/scss/main.min.bb3771ffca650e9f7dc763a6b54023e3c687c560059d6e529ee2f56d6c216d16.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
 
 
@@ -159,7 +159,7 @@
                                         <span class="dropdownTools-list-item-icon comingSoon">
                                             <img src="/img/svg/icon-small-sesam.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">API SESAM Vitale</span>
+                                        <span class="dropdownTools-list-item-label">API DevBox Santé Vitale</span>
                                     </a>
                                     
                                     <a href="/composants/documents-structures/"
@@ -167,7 +167,7 @@
                                         <span class="dropdownTools-list-item-icon comingSoon">
                                             <img src="/img/svg/icon-small-doc.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">Documents structurés</span>
+                                        <span class="dropdownTools-list-item-label">Structuration des donnnées de santé</span>
                                     </a>
                                     
                                 </div>
@@ -257,7 +257,7 @@
                                         <span class="dropdownTools-list-item-icon comingSoon">
                                             <img src="/img/svg/icon-small-sesam.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">API SESAM Vitale</span>
+                                        <span class="dropdownTools-list-item-label">API DevBox Santé Vitale</span>
                                     </a>
                                     
                                     <a href="/composants/documents-structures/"
@@ -265,7 +265,7 @@
                                         <span class="dropdownTools-list-item-icon comingSoon">
                                             <img src="/img/svg/icon-small-doc.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">Documents structurés</span>
+                                        <span class="dropdownTools-list-item-label">Structuration des donnnées de santé</span>
                                     </a>
                                     
                                 </div>
@@ -318,19 +318,26 @@
 
 <div id="sectionAboutTool" class="section">
     <div class="section-inner-wrapper">
-        <div class="grid-x align-middle">
-            <div class="cell small-24 medium-12">
+        <div class="grid-x align-middle grid-padding-x">
+            <div class="cell small-24 medium-16 text-justify">
                 <h1 class="title-section _ins">À propos de l'outil</h1>
-                <p><p>L&rsquo;INS est l&rsquo;identifiant national de santé permettant de référencer les données de Santé : NIR ou NIA</p>
+                <p><p><strong>L&rsquo;INS est l&rsquo;identifiant national de santé permettant de référencer les données de Santé.</strong></p>
+<p>Il est l&rsquo;un des piliers de la feuille de route du virage numérique de Ma santé 2022.</p>
+<p>L’utilisation de l’INS et des traits d’identité pour référencer les données de santé sera <strong>obligatoire au 1er janvier 2021</strong>. 
+Ce référencement des données de santé avec l’INS est indispensable afin d’éviter des erreurs d’identification des personnes prises en charge.</p>
+<p> </p>
+<hr>
+<p><strong>Deux types de numéros sont disponibles pour l&rsquo;INS :</strong></p>
 <ul>
 <li>NIR : Numéro d&rsquo;inscription au répertoire national des personnes physiques</li>
 <li>NIA : Numéro d&rsquo;identifiant en attente.</li>
 </ul>
-<p>Le téléservice <a href="https://esante.gouv.fr/securite/identifiant-national-de-sante" target="_blank" rel="noopener" target="_blank" rel="noopener">INS</a>
- propose deux opérations :</p>
+<hr>
+<p><strong>Le téléservice <a href="https://esante.gouv.fr/securite/identifiant-national-de-sante" target="_blank" rel="noopener" target="_blank" rel="noopener">INS</a>
+ propose deux opérations :</strong></p>
 <ul>
 <li>
-<p>Récupérer l&rsquo;INS et des traits d&rsquo;identité de l&rsquo;état civil (utile dans le cadre d&rsquo;une prise en charge d&rsquo;un patient par un
+<p>Récupérer l&rsquo;INS et les traits d&rsquo;identité de l&rsquo;état civil (utile dans le cadre d&rsquo;une prise en charge d&rsquo;un patient par un 
 professionnel de santé par lecture de la carte vitale ou par défaut les informations connues du système de santé).</p>
 </li>
 <li>
@@ -338,12 +345,20 @@ professionnel de santé par lecture de la carte vitale ou par défaut les inform
 </li>
 </ul>
 <p>L&rsquo;objectif de l&rsquo;ANS est de sécuriser le référencement des données de santé.</p>
-<p>DEVCOOP fournira un connecteur permettant d&rsquo;accéder facilement à ce Téléservice.</p>
+<hr>
+<p><strong>Qu&rsquo;est ce que cela signifie pour vous?</strong></p>
+<ul>
+<li>Le patient possède un identifiant unique que le système peut récupérer à partir de la carte vitale et en utilisant le connecteur INS.</li>
+<li>une identification fiable des personnes permet de faciliter l’échange et le partage des données de santé entre différentes applications.</li>
+</ul>
+<hr>
+<p> </p>
+<p>Ce connecteur en cours de finaliation permettra d&rsquo;accéder facilement à ce Téléservice.</p>
 <p>Intéressé par le développement de ce connecteur ? <a href="/contact">Contactez-nous</a>
 </p>
 </p>
             </div>
-            <div class="cell small-24 medium-12 text-center">
+            <div class="cell small-24 medium-8 text-center">
                 <img src="/img/connecteurs/ins-comming-soon.png" data-parallax='{"y":"2%"}'>
             </div>
         </div>
@@ -440,9 +455,9 @@ professionnel de santé par lecture de la carte vitale ou par défaut les inform
                 
                 <li class="siteMap-list-item"><a href="/composants/annuaire-sante/">Annuaire Santé</a></li>
                 
-                <li class="siteMap-list-item"><a href="/composants/sesam-vitale/">API SESAM Vitale</a></li>
+                <li class="siteMap-list-item"><a href="/composants/sesam-vitale/">API DevBox Santé Vitale</a></li>
                 
-                <li class="siteMap-list-item"><a href="/composants/documents-structures/">Documents structurés</a></li>
+                <li class="siteMap-list-item"><a href="/composants/documents-structures/">Structuration des donnnées de santé</a></li>
                 
             </ul>
             <ul class="siteMap-list">

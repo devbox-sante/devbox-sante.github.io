@@ -48,7 +48,7 @@
     <link rel="manifest" href="/favicon/manifest.json">
 
     
-    <link rel="stylesheet" href="https://www.devbox-sante.fr/scss/main.min.fffd449b2022ff011416c598718444572f9503f8b6d8cf62712f536e38b06278.css"/>
+    <link rel="stylesheet" href="https://www.devbox-sante.fr/scss/main.min.bb3771ffca650e9f7dc763a6b54023e3c687c560059d6e529ee2f56d6c216d16.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
 
 
@@ -159,7 +159,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-sesam.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">API SESAM Vitale</span>
+                                        <span class="dropdownTools-list-item-label">API DevBox Santé Vitale</span>
                                     </a>
                                     
                                     <a href="/composants/documents-structures/"
@@ -167,7 +167,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-doc.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">Documents structurés</span>
+                                        <span class="dropdownTools-list-item-label">Structuration des donnnées de santé</span>
                                     </a>
                                     
                                 </div>
@@ -257,7 +257,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-sesam.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">API SESAM Vitale</span>
+                                        <span class="dropdownTools-list-item-label">API DevBox Santé Vitale</span>
                                     </a>
                                     
                                     <a href="/composants/documents-structures/"
@@ -265,7 +265,7 @@
                                         <span class="dropdownTools-list-item-icon ">
                                             <img src="/img/svg/icon-small-doc.svg"/>
                                         </span>
-                                        <span class="dropdownTools-list-item-label">Documents structurés</span>
+                                        <span class="dropdownTools-list-item-label">Structuration des donnnées de santé</span>
                                     </a>
                                     
                                 </div>
@@ -319,23 +319,37 @@
 
 <div id="sectionAboutTool" class="section">
     <div class="section-inner-wrapper">
-        <div class="grid-x align-middle">
-            <div class="cell small-24 medium-12">
+        <div class="grid-x align-middle grid-padding-x">
+            <div class="cell small-24 medium-16 text-justify">
                 <h1 class="title-section _directory">À propos de l'outil</h1>
-                <p>L&rsquo;Annuaire Santé est un service qui permet la recherche d&rsquo;un professionnel de santé par son nom, sa spécialité, son adresse mais aussi sa géolocalisation.</p>
-<p>Gagnez du temps ! Nous vous proposons clé en main cet annuaire indexé accessible par une API REST/JSON.</p>
-<p>Intégration de plusieurs sources de données :</p>
+                <p>L&rsquo;<a href="https://annuaire.sante.fr/" target="_blank" rel="noopener" target="_blank" rel="noopener">annuaire santé</a>
+ proposé par l&rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli .
+La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&rsquo;est pas possible pour une application d&rsquo;interroger cet annuaire.</p>
+<p>Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</p>
+<p> <br>
+<strong>Gagnez du temps ! Nous vous proposons clé en main cet annuaire indexé accessible via une API REST/JSON.</strong></p>
+<p> </p>
+<hr>
+<p><strong>La DevBox annuaire santé est un service qui permet :</strong></p>
+<ul>
+<li>la recherche multicritères d&rsquo;un professionnel de santé (par son nom, sa spécialité, son adresse, sa géolocalisation, &hellip;).</li>
+<li>la recherche multicritères d&rsquo;un établissement de santé (par son nom, son adresse, sa géolocalisation, &hellip;).</li>
+</ul>
+<hr>
+<p><strong>Intégration de plusieurs sources de données :</strong></p>
 <ul>
 <li>le Répertoire Partagé des Professionnels de Santé (RPPS)</li>
 <li>le Répertoire des établissements (FINESS)</li>
 <li>la base Adresse Nationale</li>
 </ul>
+<hr>
+<p> </p>
 <p>Intéressé par l&rsquo;intégration de cet annuaire ?</p>
 <p><a href="/contact">Contactez-nous</a>
 </p>
 
             </div>
-            <div class="cell small-24 medium-12 text-center">
+            <div class="cell small-24 medium-8 text-center">
                 <img src="/img/composants/annuaire-sante-swagger.png" data-parallax='{"y":"2%"}'>
             </div>
         </div>
@@ -370,7 +384,7 @@
                 </div>
                 
                 
-                <div class="componentsBox-item card _hover cell small-24 medium-12 large-auto comingSoon">
+                <div class="componentsBox-item card _hover cell small-24 medium-12 large-auto ">
                     <a href="/composants/sesam-vitale/" class="card-section grid-x grid-padding-x align-center">
                         <div class="cell small-24 medium-shrink text-center">
                             <img src="/img/svg/icon-small-sesam.svg">
@@ -379,7 +393,7 @@
                             <br>
                         </div>
                         <div class="cell small-24 text-center">
-                            <span class="componentBox-item-title title-medium txt-sesam">API SESAM Vitale</span>
+                            <span class="componentBox-item-title title-medium txt-sesam">API DevBox Santé Vitale</span>
                         </div>
                         <div class="cell small-24 text-center">
                             <small class="connectorsBox-item-nav">Explorer le composant <i
@@ -398,7 +412,7 @@
                             <br>
                         </div>
                         <div class="cell small-24 text-center">
-                            <span class="componentBox-item-title title-medium txt-doc">Documents structurés</span>
+                            <span class="componentBox-item-title title-medium txt-doc">Structuration des donnnées de santé</span>
                         </div>
                         <div class="cell small-24 text-center">
                             <small class="connectorsBox-item-nav">Explorer le composant <i
@@ -455,9 +469,9 @@
                 
                 <li class="siteMap-list-item"><a href="/composants/annuaire-sante/">Annuaire Santé</a></li>
                 
-                <li class="siteMap-list-item"><a href="/composants/sesam-vitale/">API SESAM Vitale</a></li>
+                <li class="siteMap-list-item"><a href="/composants/sesam-vitale/">API DevBox Santé Vitale</a></li>
                 
-                <li class="siteMap-list-item"><a href="/composants/documents-structures/">Documents structurés</a></li>
+                <li class="siteMap-list-item"><a href="/composants/documents-structures/">Structuration des donnnées de santé</a></li>
                 
             </ul>
             <ul class="siteMap-list">
