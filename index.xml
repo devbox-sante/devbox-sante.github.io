@@ -71,17 +71,6 @@ Afin de palier ce problème, la DevBox santé a intégré les extractions dispon
     </item>
     
     <item>
-      <title>API DevBox Santé Vitale</title>
-      <link>https://www.devbox-sante.fr/composants/sesam-vitale/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
-      <description>Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.
-La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.
-Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</description>
-    </item>
-    
-    <item>
       <title>Mentions légales</title>
       <link>https://www.devbox-sante.fr/mentions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -179,6 +168,17 @@ Partager ces données au travers de documents structurés permet une meilleure i
 Il est l&amp;rsquo;un des piliers de la feuille de route du virage numérique de Ma santé 2022.
 L’utilisation de l’INS et des traits d’identité pour référencer les données de santé sera obligatoire au 1er janvier 2021. Ce référencement des données de santé avec l’INS est indispensable afin d’éviter des erreurs d’identification des personnes prises en charge.
   Deux types de numéros sont disponibles pour l&amp;rsquo;INS :</description>
+    </item>
+    
+    <item>
+      <title>Vitale-API</title>
+      <link>https://www.devbox-sante.fr/composants/sesam-vitale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
+      <description>Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.
+La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.
+Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</description>
     </item>
     
     <item>
