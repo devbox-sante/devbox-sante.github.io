@@ -11,7 +11,17 @@
     
     
     <item>
-      <title>CPS-API</title>
+      <title>DMP</title>
+      <link>https://www.devbox-sante.fr/connecteurs/dmpc-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devbox-sante.fr/connecteurs/dmpc-api/</guid>
+      <description>Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&amp;hellip; Il permet de partager ces informations avec les professionnels de santé qui en ont besoin.
+Afin de récupérer ou d&amp;rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur. Vous pouvez décider d&amp;rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions ou de déléguer cette complexité à un éditeur spécialisé.</description>
+    </item>
+    
+    <item>
+      <title>Lecture carte CPS / CPx</title>
       <link>https://www.devbox-sante.fr/composants/cps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -19,16 +29,6 @@
       <description>La CPS-API proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, permet d&amp;rsquo;accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
 Notamment :
  authentifier un utilisateur gérer les différents lecteurs de carte et cartes disponibles gérer l&amp;rsquo;état des lecteurs (carte arrachée) accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 telles que les données d&amp;rsquo;identification de la carte, du porteur de la carte et la liste des situations d&amp;rsquo;exercice.</description>
-    </item>
-    
-    <item>
-      <title>DMPC-API</title>
-      <link>https://www.devbox-sante.fr/connecteurs/dmpc-api/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.devbox-sante.fr/connecteurs/dmpc-api/</guid>
-      <description>Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&amp;hellip; Il permet de partager ces informations avec les professionnels de santé qui en ont besoin.
-Afin de récupérer ou d&amp;rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur. Vous pouvez décider d&amp;rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions ou de déléguer cette complexité à un éditeur spécialisé.</description>
     </item>
     
     <item>
@@ -68,6 +68,17 @@ Intégration avec des objets connectés de santé.</description>
       <guid>https://www.devbox-sante.fr/composants/annuaire-sante/</guid>
       <description>L&amp;rsquo;annuaire santé proposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
 Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</description>
+    </item>
+    
+    <item>
+      <title>Lecture carte vitale</title>
+      <link>https://www.devbox-sante.fr/composants/sesam-vitale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
+      <description>Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.
+La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.
+Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</description>
     </item>
     
     <item>
@@ -168,17 +179,6 @@ Partager ces données au travers de documents structurés permet une meilleure i
 Il est l&amp;rsquo;un des piliers de la feuille de route du virage numérique de Ma santé 2022.
 L’utilisation de l’INS et des traits d’identité pour référencer les données de santé sera obligatoire au 1er janvier 2021. Ce référencement des données de santé avec l’INS est indispensable afin d’éviter des erreurs d’identification des personnes prises en charge.
   Deux types de numéros sont disponibles pour l&amp;rsquo;INS :</description>
-    </item>
-    
-    <item>
-      <title>Vitale-API</title>
-      <link>https://www.devbox-sante.fr/composants/sesam-vitale/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
-      <description>Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.
-La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.
-Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</description>
     </item>
     
     <item>

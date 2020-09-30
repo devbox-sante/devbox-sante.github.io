@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>https://www.devbox-sante.fr/composants/cps/</loc> 
+        <loc>https://www.devbox-sante.fr/connecteurs/dmpc-api/</loc> 
         <changefreq>monthly</changefreq>
     </url>
     <url>
-        <loc>https://www.devbox-sante.fr/connecteurs/dmpc-api/</loc> 
+        <loc>https://www.devbox-sante.fr/composants/cps/</loc> 
         <changefreq>monthly</changefreq>
     </url>
     <url>
@@ -34,6 +34,10 @@
         <changefreq>monthly</changefreq>
     </url>
     <url>
+        <loc>https://www.devbox-sante.fr/composants/sesam-vitale/</loc> 
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
         <loc>https://www.devbox-sante.fr/mentions/</loc> 
         <changefreq>monthly</changefreq>
     </url>
@@ -51,10 +55,6 @@
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/connecteurs/teleservice-ins/</loc> 
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://www.devbox-sante.fr/composants/sesam-vitale/</loc> 
         <changefreq>monthly</changefreq>
     </url>
 </urlset>

@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>CPS-API</title>
+      <title>Lecture carte CPS / CPx</title>
       <link>https://www.devbox-sante.fr/composants/cps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -32,6 +32,17 @@ Afin de palier ce problème, la DevBox santé a intégré les extractions dispon
     </item>
     
     <item>
+      <title>Lecture carte vitale</title>
+      <link>https://www.devbox-sante.fr/composants/sesam-vitale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
+      <description>Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.
+La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.
+Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</description>
+    </item>
+    
+    <item>
       <title>Structuration des donnnées de santé</title>
       <link>https://www.devbox-sante.fr/composants/documents-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,17 +51,6 @@ Afin de palier ce problème, la DevBox santé a intégré les extractions dispon
       <description>Parler de données de santé, implique de connaître un ensemble de normes. Êtes-vous familié des acronymes suivants : MOS, NOS, XDS, FHIR, HL7, HPRIM &amp;hellip;
 Bien sûr, il est possible de construire une application de santé sans les connaitre, mais toute application de santé est vouée à communiquer au sein d&amp;rsquo;un écosystème afin de partager des données entre soignants.
 Partager ces données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.</description>
-    </item>
-    
-    <item>
-      <title>Vitale-API</title>
-      <link>https://www.devbox-sante.fr/composants/sesam-vitale/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
-      <description>Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.
-La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.
-Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</description>
     </item>
     
   </channel>
