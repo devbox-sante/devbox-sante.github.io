@@ -16,15 +16,15 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Lecture carte vitale - DevBox santé</title>
+    <title>DMP - DevBox santé</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="permet de lire localement une carte Vitale grâce à de simples requêtes REST/JSON" />
+    <meta name="description" content="Le connecteur qui simplifie la connexion au DMP (Dossier Médical Partagé)" />
     <meta name="author" content="DEVCOOP Consulting" />
     <meta content="website" property="og:type">
 
-    <meta content="permet de lire localement une carte Vitale grâce à de simples requêtes REST/JSON" property="og:description">
+    <meta content="Le connecteur qui simplifie la connexion au DMP (Dossier Médical Partagé)" property="og:description">
     <meta content="https://www.devbox-sante.fr/img/svg/logo-for-whiteBg.svg" property="og:image">
-    <meta content="Lecture carte vitale - DevBox santé" property="og:site_name">
+    <meta content="DMP - DevBox santé" property="og:site_name">
     <meta content="fr-fr" property="og:locale">
     <meta name="robots" content="index, follow">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -69,7 +69,7 @@
 
     <body>
         
-<header class="headerContainer cd-morph-dropdown _sesam " id="header">
+<header class="headerContainer cd-morph-dropdown _dmpc " id="header">
     <div class="headerContent cell shrink grid-x align-middle">
         
         <div class="cell shrink">
@@ -320,25 +320,24 @@
         <div class="main-container">
             
 
-<div id="sectionToolsIntro" class="sectionToolsIntro _sesam">
+<div id="sectionToolsIntro" class="sectionToolsIntro _dmpc">
     <div class="grid-x align-middle section-inner-wrapper">
         <div class="cell small-24 large-12 text-left">
-            <h1 class="txt-white title-big">Lecture carte vitale </h1>
-            <h2 class="txt-white title-medium">Vitale-API</h2>
-            <p class="txt-white">permet de lire localement une carte Vitale grâce à de simples requêtes REST/JSON</p>
+            <h1 class="txt-white title-big">DMP</h1>
+            <h2 class="txt-white title-medium">DMPC-API</h2>
+            <p class="txt-white">Le connecteur qui simplifie la connexion au DMP (Dossier Médical Partagé)</p>
             <br>
             <a href="#sectionAboutTool"
-               class="button white txt-sesam has-icon-right">
+               class="button white txt-dmpc has-icon-right">
                 Accéder à l'outil<i class="fa fa-chevron-right"></i>
             </a>
         </div>
 
         <div class="cell hide-for-small-only large-12"></div>
 
-        <img src="/img/svg/illu-sesam.svg" alt="permet de lire localement une carte Vitale grâce à de simples requêtes REST/JSON" class="sectionToolsIntro-illu"
-             data-parallax='{"y":"-8%"}'>
+        <img src="/img/svg/illu-dmpc.svg" alt="Le connecteur qui simplifie la connexion au DMP (Dossier Médical Partagé)" class="sectionToolsIntro-illu" data-parallax='{"y":"-8%"}'>
 
-        <a class="scroll-indicator _sesam" href="#sectionAboutTool">
+        <a class="scroll-indicator _dmpc" href="#sectionAboutTool">
             <div class="scroll-downs">
                 <div class="mousey">
                     <div class="scroller"></div>
@@ -354,32 +353,66 @@
     <div class="section-inner-wrapper">
         <div class="grid-x align-middle grid-padding-x">
             <div class="cell small-24 medium-16 text-justify">
-                <h1 class="title-section _sesam">À propos de l'outil</h1>
-                <p>Afin d&rsquo;accéder aux informations de la carte vitale, il est nécessaire d&rsquo;utiliser des librairies natives fournies par Sesam-Vitale.</p>
-<p>La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&rsquo;interfacer avec ces librairies natives au travers d&rsquo;une API de plus haut niveau Java ou REST.</p>
-<p>Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, 
-la gestion des insertions/retraits de carte lors d&rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</p>
+                <h1 class="title-section _dmpc">À propos de l'outil</h1>
+                <p><p>Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&hellip; 
+Il permet de partager ces informations avec les professionnels de santé qui en ont besoin.</p>
+<p>Afin de récupérer ou d&rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur.
+Vous pouvez décider d&rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions 
+ou de déléguer cette complexité à un éditeur spécialisé.</p>
+<p> </p>
+<p><strong>La DMPC-API est un connecteur EAI homologué V2 par le CNDA qui s&rsquo;interface avec le DMP.</strong></p>
+<p>Elle prend en charge la complexité de l&rsquo;intégration et facilite ainsi aux éditeurs de logiciel de santé l&rsquo;intéropérabilité avec le DMP en vous fournissant une API simple à utiliser.</p>
 <p> </p>
 <hr>
-<p><strong>Quelles informations sont disponibles ?</strong></p>
+<p><strong>La force de cette API :</strong></p>
 <ul>
-<li>En l&rsquo;absence de carte CPS : accès aux informations administratives et d&rsquo;ouverture de droits concernant l&rsquo;assuré et les ayants droit qui lui sont rattachés. Cela permet notamment d’identifier l’assuré en vue d’accéder aux Téléservices intégrés de l’Assurance Maladie.</li>
-<li>En utilisant une carte CPS : accès à la totalité des informations, notamment celles liées au taux de couverture de l&rsquo;assuré au regard de l&rsquo;Assurance Maladie.</li>
+<li>simplicité de sa mise en oeuvre.</li>
+<li>utilisation des librairies référentes du marché (Apache CXF, Apache Santuario, SpringBoot).</li>
+<li>régulièrement mise à jour pour suivre les évolutions des spécifications.</li>
 </ul>
 <hr>
-<p><strong>Quels lecteurs sont supportés ?</strong></p>
+<p><strong>Trois manières d&rsquo;intégrer la DMPC-API :</strong></p>
 <ul>
-<li>lecteurs mono-fentes (avec 2 ou 1 seul lecteur en mode flip-flop)</li>
-<li>lecteurs bi-fentes</li>
+<li>Embedded : directement dans vos modules SpringBoot Java.</li>
+<li>ProxyWS : via des WebServices SOAP.</li>
+<li>ProxyREST : via une API REST / JSON.</li>
+</ul>
+<hr>
+<p><strong>Deux manières de s&rsquo;authentifier :</strong></p>
+<ul>
+<li>Authentification directe en utilisant la CPS/CPE.</li>
+<li>Authentification indirecte en utilisant un certificat serveur.</li>
+</ul>
+<hr>
+<p><strong>Trois profils fonctionnels :</strong></p>
+<ul>
+<li>Alimentation DMP.</li>
+<li>Consultation DMP.</li>
+<li>Gestion administrative du DMP.</li>
+</ul>
+<hr>
+<p><strong>Nos garanties :</strong></p>
+<ul>
+<li>Ce connecteur est homologué DMP v2.5 par le CNDA <img src="/img/png/DMPcompatible_small.png" alt="">.</li>
+<li>Nous permettons de tester gratuitement cette API afin de valider votre choix.</li>
+<li>Plusieurs éditeurs utilisent déjà ce connecteur pour leur logiciel de santé et ceci depuis 2013 .</li>
 </ul>
 <hr>
 <p> </p>
-<p>Consultez <strong><a href="https://doc.devbox-sante.fr/docs/vitale/" target="_blank" rel="noopener" target="_blank" rel="noopener">la documentation technique en ligne</a>
+<p> </p>
+<p><img src="/img/jpg/zone-test.jpg" alt="">  <strong>Un aperçu des possibilités du connecteur DMP ?</strong></p>
+<p>Accéder directement à notre environnement de démonstration : <a href="https://dmpc-demo.devbox-sante.fr/swagger-ui.html" target="_blank" rel="noopener" target="_blank" rel="noopener">https://dmpc-demo.devbox-sante.fr</a>
+</p>
+<p>en nous demandant un <code>login/password</code> par mail à <!-- raw HTML omitted --><a href="mailto:devbox-sante@devcoop.fr">devbox-sante@devcoop.fr</a>
+<!-- raw HTML omitted --></p>
+<p>Aucun engagement de votre part n&rsquo;est nécessaire !</p>
+<p> </p>
+<p>Vous pouvez également consulter <strong><a href="https://doc.devbox-sante.fr/docs/dmp/" target="_blank" rel="noopener" target="_blank" rel="noopener">la documentation technique en ligne</a>
 </strong></p>
-
+</p>
             </div>
             <div class="cell small-24 medium-8 text-center">
-                <img src="/img/composants/vitale-api.jpg" data-parallax='{"y":"2%"}'>
+                <img src="/img/connecteurs/dmpc-schema.png" data-parallax='{"y":"2%"}'>
             </div>
         </div>
     </div>
@@ -389,106 +422,45 @@ la gestion des insertions/retraits de carte lors d&rsquo;utilisation lecteur mon
 
 <div id="sectionSimilarTool" class="section">
     <div class="section-inner-wrapper">
-        <div class="componentBox">
+        <div class="connectorsBox">
             <div class="grid-x grid-margin-x grid-margin-y">
-
                 
                 
-                <div class="componentsBox-item card _hover cell small-24 medium-12 large-auto ">
-                    <a href="/composants/cps/" class="card-section grid-x grid-padding-x align-center">
+                <div class="connectorsBox-item card _hover cell small-24 medium-12 large-auto ">
+                    <a href="/connecteurs/ms-sante/" class="card-section grid-x grid-padding-x align-center">
                         <div class="cell small-24 medium-shrink text-center">
-                            <img src="/img/svg/icon-small-cps.svg">
+                            <img src="/img/svg/icon-medium-mssante.svg">
                         </div>
                         <div class="cell small-24 text-center">
                             <br>
                         </div>
                         <div class="cell small-24 text-center">
-                            <span class="componentBox-item-title title-medium txt-cps">Lecture carte CPS / CPx</span>
+                            <span class="componentBox-item-title title-medium txt-mssante">MS Santé</span>
                         </div>
                         <div class="cell small-24 text-center">
-                            <small class="connectorsBox-item-nav">Explorer le composant <i
-                                    class="fa fa-chevron-right"></i></small>
+                            <small class="connectorsBox-item-nav">Explorer le connecteur <i class="fa fa-chevron-right"></i></small>
                         </div>
                     </a>
                 </div>
                 
                 
-                <div class="componentsBox-item card _hover cell small-24 medium-12 large-auto comingSoon">
-                    <a href="/composants/apcv/" class="card-section grid-x grid-padding-x align-center">
+                <div class="connectorsBox-item card _hover cell small-24 medium-12 large-auto ">
+                    <a href="/connecteurs/insi/" class="card-section grid-x grid-padding-x align-center">
                         <div class="cell small-24 medium-shrink text-center">
-                            <img src="/img/svg/icon-small-apcv.svg">
+                            <img src="/img/svg/icon-medium-ins.svg">
                         </div>
                         <div class="cell small-24 text-center">
                             <br>
                         </div>
                         <div class="cell small-24 text-center">
-                            <span class="componentBox-item-title title-medium txt-apcv">Mobilité ApCV</span>
+                            <span class="componentBox-item-title title-medium txt-ins">Téléservice INSi</span>
                         </div>
                         <div class="cell small-24 text-center">
-                            <small class="connectorsBox-item-nav">Explorer le composant <i
-                                    class="fa fa-chevron-right"></i></small>
+                            <small class="connectorsBox-item-nav">Explorer le connecteur <i class="fa fa-chevron-right"></i></small>
                         </div>
                     </a>
                 </div>
                 
-                
-                <div class="componentsBox-item card _hover cell small-24 medium-12 large-auto ">
-                    <a href="/composants/ecps/" class="card-section grid-x grid-padding-x align-center">
-                        <div class="cell small-24 medium-shrink text-center">
-                            <img src="/img/svg/icon-small-ecps.svg">
-                        </div>
-                        <div class="cell small-24 text-center">
-                            <br>
-                        </div>
-                        <div class="cell small-24 text-center">
-                            <span class="componentBox-item-title title-medium txt-ecps">Mobilité e-CPS / Pro Santé Connect</span>
-                        </div>
-                        <div class="cell small-24 text-center">
-                            <small class="connectorsBox-item-nav">Explorer le composant <i
-                                    class="fa fa-chevron-right"></i></small>
-                        </div>
-                    </a>
-                </div>
-                
-                
-                <div class="componentsBox-item card _hover cell small-24 medium-12 large-auto ">
-                    <a href="/composants/annuaire-sante/" class="card-section grid-x grid-padding-x align-center">
-                        <div class="cell small-24 medium-shrink text-center">
-                            <img src="/img/svg/icon-small-directory.svg">
-                        </div>
-                        <div class="cell small-24 text-center">
-                            <br>
-                        </div>
-                        <div class="cell small-24 text-center">
-                            <span class="componentBox-item-title title-medium txt-directory">Annuaire Santé</span>
-                        </div>
-                        <div class="cell small-24 text-center">
-                            <small class="connectorsBox-item-nav">Explorer le composant <i
-                                    class="fa fa-chevron-right"></i></small>
-                        </div>
-                    </a>
-                </div>
-                
-                
-                <div class="componentsBox-item card _hover cell small-24 medium-12 large-auto ">
-                    <a href="/composants/documents-structures/" class="card-section grid-x grid-padding-x align-center">
-                        <div class="cell small-24 medium-shrink text-center">
-                            <img src="/img/svg/icon-small-doc.svg">
-                        </div>
-                        <div class="cell small-24 text-center">
-                            <br>
-                        </div>
-                        <div class="cell small-24 text-center">
-                            <span class="componentBox-item-title title-medium txt-doc">Structuration des donnnées de santé</span>
-                        </div>
-                        <div class="cell small-24 text-center">
-                            <small class="connectorsBox-item-nav">Explorer le composant <i
-                                    class="fa fa-chevron-right"></i></small>
-                        </div>
-                    </a>
-                </div>
-                
-
             </div>
         </div>
     </div>

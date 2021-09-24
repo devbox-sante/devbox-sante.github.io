@@ -5,10 +5,15 @@
     <link>https://www.devbox-sante.fr/faq/</link>
     <description>Recent content in Foire aux questions on DevBox santé</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    
-	<atom:link href="https://www.devbox-sante.fr/faq/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/faq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proposez vous des offres SAAS ? Si oui, pour quels composants ?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Oui, nous proposons une offre SAAS pour la gestion d&amp;rsquo;annuaire. Contactez-nous.</description>
+    </item>
     
     <item>
       <title>Puis je souscrire à une licence pour un seul composant ?</title>
@@ -25,7 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
-      <description>Nos composants et connecteurs sont des briques embarquées dans vos solutions. Vous êtes libre de les intégrer comme vous le souhaitez. La licence est donc globale à la personne morale.</description>
+      <description>Nos composants et connecteurs sont des briques embarquées dans vos solutions. Vous êtes libre de les intégrer comme vous le souhaitez.</description>
     </item>
     
     <item>

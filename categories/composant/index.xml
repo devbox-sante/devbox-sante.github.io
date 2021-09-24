@@ -5,11 +5,7 @@
     <link>https://www.devbox-sante.fr/categories/composant/</link>
     <description>Recent content in composant on DevBox santé</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    
-	<atom:link href="https://www.devbox-sante.fr/categories/composant/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/categories/composant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lecture carte CPS / CPx</title>
       <link>https://www.devbox-sante.fr/composants/cps/</link>
@@ -22,12 +18,33 @@ Notamment :
     </item>
     
     <item>
+      <title>Mobilité ApCV</title>
+      <link>https://www.devbox-sante.fr/composants/apcv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devbox-sante.fr/composants/apcv/</guid>
+      <description>L&amp;rsquo;application carte vitale ApCV est une application mobile développée par le GIE SesamVitale. Elle permet au patient de présenter ses informations vitales via son téléphone mobile.
+Intégrer dans votre application la lecture NFC ou la lecture du QRCode disponible dans l&amp;rsquo;application mobile du patient puis accéder au téléservice d&amp;rsquo;authentification ApCV, vous permet d&amp;rsquo;acquérir ces informations de la carte vitale permettant d&amp;rsquo;identifier de manière dématérialiser votre patient au sein de votre application.</description>
+    </item>
+    
+    <item>
+      <title>Mobilité e-CPS / Pro Santé Connect</title>
+      <link>https://www.devbox-sante.fr/composants/ecps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devbox-sante.fr/composants/ecps/</guid>
+      <description>Après des expérimentations réussies, nous mettons en œuvre ProSantéConnect au sein de nos solutions SAAS.
+Notre valeur ajoutée :
+ Expertise dans la mise en œuvre de solution d&amp;rsquo;authentifiation basée sur ProSantéConnect Prise en compte des possibilités de la e-CPS et de Pro Santé Connect pour les accès aux différents Téléservices supporté par la DevBox-Santé  </description>
+    </item>
+    
+    <item>
       <title>Annuaire Santé</title>
       <link>https://www.devbox-sante.fr/composants/annuaire-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/composants/annuaire-sante/</guid>
-      <description>L&amp;rsquo;annuaire santéproposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
+      <description>L&#39;annuaire santéproposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
 Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</description>
     </item>
     

@@ -5,11 +5,7 @@
     <link>https://www.devbox-sante.fr/categories/expertise/</link>
     <description>Recent content in expertise on DevBox santé</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    
-	<atom:link href="https://www.devbox-sante.fr/categories/expertise/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/categories/expertise/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optim&#39;Care</title>
       <link></link>
