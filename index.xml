@@ -7,12 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Puis je souscrire à une licence pour un seul composant ?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.</description>
+    </item>
+    
+    <item>
+      <title>Quel type de licence d&#39;utilisation de logiciel, proposez-vous ?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Nos composants et connecteurs sont des briques embarquées dans vos solutions. Vous êtes libre de les intégrer comme vous le souhaitez.</description>
+    </item>
+    
+    <item>
+      <title>Quelles prestations proposez-vous ?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Les prestations proposées par DEVCOOP sont :
+ L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution . De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.  </description>
+    </item>
+    
+    <item>
       <title>DMP</title>
       <link>https://www.devbox-sante.fr/connecteurs/dmp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/connecteurs/dmp/</guid>
-      <description>Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&amp;hellip; Il permet de partager ces informations avec les professionnels de santé qui en ont besoin.
+      <description>Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&amp;hellip; Il permet de partager ces informations avec les professionnels de santé mais aussi au patient au travers de &amp;ldquo;Mon Espace Santé&amp;rdquo;
 Afin de récupérer ou d&amp;rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur. Vous pouvez décider d&amp;rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions ou de déléguer cette complexité à un éditeur spécialisé.</description>
     </item>
     
@@ -57,6 +85,15 @@ Notre valeur ajoutée :
       <description>Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés et les professionnels de santé impliqués dans leur suivi.
 Réalisation de la plateforme de santé accessible via des applications mobiles et webs.
 Intégration avec des objets connectés de santé.</description>
+    </item>
+    
+    <item>
+      <title>Proposez vous des offres SAAS ? Si oui, pour quels composants ?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Oui, nous proposons une offre SAAS pour la gestion d&amp;rsquo;annuaire. Contactez-nous.</description>
     </item>
     
     <item>
@@ -143,43 +180,6 @@ Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
       
       <guid></guid>
       <description>Réalisation d&amp;rsquo;applications webs et mobiles pour la prise de rendez-vous en ligne avec des professionnels de santé mais aussi la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisée.</description>
-    </item>
-    
-    <item>
-      <title>Proposez vous des offres SAAS ? Si oui, pour quels composants ?</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description>Oui, nous proposons une offre SAAS pour la gestion d&amp;rsquo;annuaire. Contactez-nous.</description>
-    </item>
-    
-    <item>
-      <title>Puis je souscrire à une licence pour un seul composant ?</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description>Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.</description>
-    </item>
-    
-    <item>
-      <title>Quel type de licence d&#39;utilisation de logiciel, proposez-vous ?</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description>Nos composants et connecteurs sont des briques embarquées dans vos solutions. Vous êtes libre de les intégrer comme vous le souhaitez.</description>
-    </item>
-    
-    <item>
-      <title>Quelles prestations proposez-vous ?</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description>Les prestations proposées par DEVCOOP sont :
- L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution . De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.  </description>
     </item>
     
     <item>
