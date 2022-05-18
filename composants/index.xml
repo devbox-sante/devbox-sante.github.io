@@ -44,7 +44,7 @@ Notre valeur ajoutée :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/composants/annuaire-sante/</guid>
-      <description>L&#39;annuaire santéproposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
+      <description>L&amp;rsquo;annuaire santéproposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
 Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</description>
     </item>
     
