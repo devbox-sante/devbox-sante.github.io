@@ -35,7 +35,7 @@ Intégrer dans votre application la lecture NFC ou la lecture du QRCode disponib
       <guid>https://www.devbox-sante.fr/composants/ecps/</guid>
       <description>Après des expérimentations réussies, nous mettons en œuvre ProSantéConnect au sein de nos solutions SAAS.
 Notre valeur ajoutée :
-Expertise dans la mise en œuvre de solution d&amp;rsquo;authentifiation basée sur ProSantéConnect Prise en compte des possibilités de la e-CPS et de Pro Santé Connect pour les accès aux différents téléservices supportés par la DevBox-Santé Intéressé par l&amp;rsquo;intégration de Pro Santé Connect dans vos applications ? Contactez-nous</description>
+Expertise dans la mise en œuvre de solution d&amp;rsquo;authentifiation basée sur ProSantéConnect Prise en compte des possibilités de la e-CPS et de Pro Santé Connect pour les accès aux différents téléservices supportés par la DevBox-Santé Intéressé par l&amp;rsquo;intégration de Pro Santé Connect dans vos applications ? Contactez-nous </description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@ Expertise dans la mise en œuvre de solution d&amp;rsquo;authentifiation basée 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/composants/annuaire-sante/</guid>
-      <description>L&amp;rsquo;annuaire santéproposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
+      <description>L&amp;rsquo;annuaire santé proposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
 Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</description>
     </item>
     

@@ -73,7 +73,7 @@ Intégrer dans votre application la lecture NFC ou la lecture du QRCode disponib
       <guid>https://www.devbox-sante.fr/composants/ecps/</guid>
       <description>Après des expérimentations réussies, nous mettons en œuvre ProSantéConnect au sein de nos solutions SAAS.
 Notre valeur ajoutée :
-Expertise dans la mise en œuvre de solution d&amp;rsquo;authentifiation basée sur ProSantéConnect Prise en compte des possibilités de la e-CPS et de Pro Santé Connect pour les accès aux différents téléservices supportés par la DevBox-Santé Intéressé par l&amp;rsquo;intégration de Pro Santé Connect dans vos applications ? Contactez-nous</description>
+Expertise dans la mise en œuvre de solution d&amp;rsquo;authentifiation basée sur ProSantéConnect Prise en compte des possibilités de la e-CPS et de Pro Santé Connect pour les accès aux différents téléservices supportés par la DevBox-Santé Intéressé par l&amp;rsquo;intégration de Pro Santé Connect dans vos applications ? Contactez-nous </description>
     </item>
     
     <item>
@@ -129,7 +129,7 @@ Intégration avec des objets connectés de santé.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/composants/annuaire-sante/</guid>
-      <description>L&amp;rsquo;annuaire santéproposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
+      <description>L&amp;rsquo;annuaire santé proposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&amp;rsquo;est pas possible pour une application d&amp;rsquo;interroger cet annuaire.
 Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</description>
     </item>
     
@@ -156,8 +156,8 @@ Numéro de SIRET : 51786565500024
 Adresse : 228 avenue de Cadaujac 33850 Léognan
 Capital social : 19 920 €
 Téléphone : 0360455713
-Email : contact@devcoop.frSite Web : www.devbox-sante.frResponsable publication : DEVCOOP Consulting
-Conditions générales d&amp;rsquo;utilisation du site et des services proposés. L’utilisation du site https://www.devbox-sante.frimplique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites.</description>
+Email : contact@devcoop.fr Site Web : www.devbox-sante.fr Responsable publication : DEVCOOP Consulting
+Conditions générales d&amp;rsquo;utilisation du site et des services proposés. L’utilisation du site https://www.devbox-sante.fr implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites.</description>
     </item>
     
     <item>
@@ -166,7 +166,7 @@ Conditions générales d&amp;rsquo;utilisation du site et des services proposés
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.devbox-sante.fr/connecteurs/ms-sante/</guid>
-      <description>La MSSanté, Messagerie sécurisée de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&amp;rsquo;échanger par mail des données de santé.
+      <description>La MSSanté , Messagerie sécurisée de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&amp;rsquo;échanger par mail des données de santé.
 La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messagerie qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définies par l&amp;rsquo;ANS.
 Cet espace de confiance sécurisé comprend :
 un annuaire national MSSanté des professionnels une liste blanche des opérateurs L&amp;rsquo;offre DevBox-santé MSS comprend : Une intégration avec Mailiz Une intégration avec Apicrypt V2 (en cours de développement) Un aperçu des possibilités du connecteur MS-Santé ?</description>
