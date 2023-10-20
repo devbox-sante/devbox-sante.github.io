@@ -363,14 +363,14 @@
 La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv. Il n&rsquo;est pas possible pour une application d&rsquo;interroger cet annuaire.</p>
 <p>Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</p>
 <p> <br>
-<strong>Gagnez du temps ! Nous vous proposons clé en main cet annuaire indexé accessible via une API REST/JSON.</strong></p>
+<strong>Gagnez du temps ! Nous vous proposons clé en main cet annuaire indexé accessible via une API REST/JSON.</strong></p>
 <p> </p>
 <hr>
 <p><strong>La DevBox annuaire santé est un service qui permet :</strong></p>
 <ul>
 <li>la recherche multicritères d&rsquo;un professionnel de santé (par son nom, sa spécialité, son adresse, sa géolocalisation, &hellip;).</li>
 <li>la recherche multicritères d&rsquo;un établissement de santé (par son nom, son adresse, sa géolocalisation, &hellip;).</li>
-<li>l&rsquo;accès et la recherche dans les nomenclatures du NOS</li>
+<li>l&rsquo;accès et la recherche dans les nomenclatures du NOS, CIP, CIS, ATC, CIM10, CIM11, CCAM</li>
 </ul>
 <hr>
 <p><strong>Intégration de plusieurs sources de données :</strong></p>
@@ -382,6 +382,35 @@ La consultation de cet annuaire est uniquement possible via leur site web ou via
 </ul>
 <hr>
 <p> </p>
+<h2 id="preuves-segur">Preuves SEGUR</h2>
+<p>En intégrant cet annuaire, vous pourrez apporter les preuves suivantes du SEGUR:</p>
+<table>
+<thead>
+<tr>
+<th>Description</th>
+<th>Exigence</th>
+<th style="text-align:right">Scénario</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Le système DOIT être en capacité d’intégrer automatiquement l’extraction publique « PS_LibreAcces_Personne_activite » de l’annuaire santé.fr, conformément au Dossier des Spécifications Fonctionnelles et Techniques Fichiers d&rsquo;extraction des données en libre accès [ANN1].</td>
+<td>ANN 1.1</td>
+<td style="text-align:right">L&rsquo;éditeur DOIT exécuter le scénario de conformité suivant : 1 Charger les données en libre acès sur le site <a href="https://annuaire.sante.fr" target="_blank" rel="noopener" target="_blank" rel="noopener">https://annuaire.sante.fr</a>
+</td>
+</tr>
+<tr>
+<td>Le Système DOIT permettre de paramétrer la fréquence d’intégration automatique de l’annuaire santé.</td>
+<td>ANN 4.1</td>
+<td style="text-align:right">L&rsquo;éditeur DOIT exécuter le scénario de conformité suivant : 1. Paramétrer la fréquence d&rsquo;intégration automatique de l&rsquo;annuaire santé.</td>
+</tr>
+<tr>
+<td>Le Système DOIT être en capacité de rechercher une adresse MSSanté d’un correspondant dans l’annuaire Santé, avec l’une des méthodes extraites du référentiel socle MSSanté #2 (Clients de Messageries Sécurisées de Santé) [MSS1].</td>
+<td>ANN 5.1</td>
+<td style="text-align:right">L&rsquo;éditeur DOIT exécuter le scénario de conformité suivant : 1. Rechercher une adresse MSSanté d&rsquo;un correspondant récupérée de l&rsquo;annuaire Santé</td>
+</tr>
+</tbody>
+</table>
 <h2 id="tarifs-devbox-santé-annuaire-saas">Tarifs DevBox-Santé Annuaire SAAS</h2>
 <p> </p>
 <table>
@@ -400,7 +429,7 @@ La consultation de cet annuaire est uniquement possible via leur site web ou via
 </tr>
 <tr>
 <td><strong>&ldquo;Ultimate&rdquo;</strong></td>
-<td><strong>&lt; 50 000 requêtes (puis 0,002 € / requêtes) + méta-données de recherche</strong></td>
+<td><strong>&lt; 50 000 requêtes (puis 0,002 € / requêtes) + méta-données de recherche</strong></td>
 <td style="text-align:right"><strong>250 € / mois</strong></td>
 </tr>
 </tbody>
@@ -409,7 +438,7 @@ La consultation de cet annuaire est uniquement possible via leur site web ou via
 <hr>
 <p> 
 <img src="/img/jpg/zone-test.jpg" alt="">  <strong>Un aperçu des possibilités de l&rsquo;annuaire santé ?</strong></p>
-<p>Accéder directement à notre environnement de démonstration : <a href="https://annuaire-demo.devbox-sante.fr" target="_blank" rel="noopener" target="_blank" rel="noopener">https://annuaire-demo.devbox-sante.fr</a>
+<p>Accéder directement à notre environnement de démonstration: <a href="https://annuaire-demo.devbox-sante.fr" target="_blank" rel="noopener" target="_blank" rel="noopener">https://annuaire-demo.devbox-sante.fr</a>
 </p>
 <p>en nous demandant un <code>login/password</code> par mail à <!-- raw HTML omitted --><a href="mailto:devbox-sante@devcoop.fr">devbox-sante@devcoop.fr</a>
 <!-- raw HTML omitted --></p>
