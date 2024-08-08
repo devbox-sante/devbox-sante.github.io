@@ -18,6 +18,10 @@
         <changefreq>monthly</changefreq>
     </url>
     <url>
+        <loc>https://www.devbox-sante.fr/connecteurs/e-prescription/</loc> 
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
         <loc>https://www.devbox-sante.fr/composants/annuaire-sante/</loc> 
         <changefreq>monthly</changefreq>
     </url>
