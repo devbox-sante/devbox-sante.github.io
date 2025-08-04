@@ -18,6 +18,10 @@
         <changefreq>monthly</changefreq>
     </url>
     <url>
+        <loc>https://www.devbox-sante.fr/plateformes/pfi/</loc> 
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
         <loc>https://www.devbox-sante.fr/composants/annuaire-sante/</loc> 
         <changefreq>monthly</changefreq>
     </url>
@@ -55,6 +59,10 @@
     </url>
     <url>
         <loc>https://www.devbox-sante.fr/expertises/</loc> 
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://www.devbox-sante.fr/plateformes/</loc> 
         <changefreq>monthly</changefreq>
     </url>
     <url>

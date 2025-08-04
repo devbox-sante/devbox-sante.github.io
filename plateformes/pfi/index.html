@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="fr-fr">
+
+   
+
+<head>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-39129192-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-39129192-3');
+    </script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Plateforme PFI - DevBox santé</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Mettre en place une PFI au sein de votre établissement de santé" />
+    <meta name="author" content="DEVCOOP Consulting" />
+    <meta content="website" property="og:type">
+
+    <meta content="Mettre en place une PFI au sein de votre établissement de santé" property="og:description">
+    <meta content="https://www.devbox-sante.fr/img/svg/logo-for-whiteBg.svg" property="og:image">
+    <meta content="Plateforme PFI - DevBox santé" property="og:site_name">
+    <meta content="fr-fr" property="og:locale">
+    <meta name="robots" content="index, follow">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/manifest.json">
+
+    
+    <link rel="stylesheet" href="https://www.devbox-sante.fr/scss/main.min.9ef4d404ac48c1925744ac3b4105f072216d884588fd395eb665e8dcc5db73cb.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha512-bnIvzh6FU75ZKxp0GXLH9bewza/OIw6dLVh9ICg0gogclmYGguQJWl8U30WpbsGTqbIiAwxTsbe76DErLq5EDQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+
+    <script type="text/javascript" src="/js/lib/data-parallax.min.js"></script>
+    <script type="text/javascript" src="/js/lib/resize-sensor.js"></script>
+    <script type="text/javascript" src="/js/lib/slick.js"></script>
+    <script type="text/javascript" src="/js/lib/sticky-sidebar.js"></script>
+    <script type="text/javascript" src="/js/lib/tab.js"></script>
+    <script type="text/javascript" src="/js/app.js"></script>
+</head>
+
+
+    <body>
+        
+<header class="headerContainer cd-morph-dropdown _pfi " id="header">
+    <div class="headerContent cell shrink grid-x align-middle">
+        
+        <div class="cell shrink">
+            <a href="/" class="logo">
+                <img src="/img/svg/logo-for-colorBg.svg" alt="DevBox Santé">
+            </a>
+        </div>
+
+        
+        <nav class="cell auto grid-x align-right align-middle headerMenu main-nav">
+            <a href="/" title="Accueil" class="headerMenu-item links">Accueil</a>
+            <a title="Outils" class="headerMenu-item has-dropdown links" data-content="tools">Outils<i
+                    class="fa fa-chevron-circle-down"></i></a>
+            
+            <a href="/faq" title="FAQ" class="headerMenu-item">FAQ</a>
+            <a href="https://doc.devbox-sante.fr" class="button primary hollow headerMenu-contact has-icon-left" target="_blank"><i
+                    class="fa fa-book"></i>Documentation</a>
+            <a href="/contact" class="button primary hollow headerMenu-contact has-icon-left"><i
+                class="fa fa-comment-dots"></i>Contact</a>
+                <a href="https://bitbucket.org/devbox-sante" title="https://bitbucket.org/devbox-sante" class="headerMenu-item networks" target="_blank"><i class="fab fa-bitbucket fa-4x"></i></a>
+                <a href="https://github.com/DEVCOOP/dmpc-public" title="https://github.com/DEVCOOP/dmpc-public" class="headerMenu-item networks" target="_blank"><i class="fab fa-github"></i></a>
+
+        </nav>
+        
+
+        
+        <div class="morph-dropdown-wrapper">
+            <div class="dropdown-list">
+                <ul>
+                    <li id="tools" class="dropdown">
+                        <div class="grid-y content dropdownTools">
+                            <div class="cell shrink dropdownTools-section">
+                                <span class="dropdownTools-section-title title-small">Connecteurs</span>
+                                
+                                <div class="grid-x small-up-4 dropdownTools-list _block _appearList">
+                                    
+                                    <a href="/connecteurs/dmp/"
+                                       title="DMP"
+                                       class="cell dropdownTools-list-item txt-dmpc">
+                                        <span class="dropdownTools-list-item-icon">
+                                            <img src="/img/svg/icon-medium-dmpc.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">DMP</span>
+                                    </a>
+                                    
+                                    <a href="/connecteurs/ms-sante/"
+                                       title="MS Santé"
+                                       class="cell dropdownTools-list-item txt-mssante">
+                                        <span class="dropdownTools-list-item-icon">
+                                            <img src="/img/svg/icon-medium-mssante.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">MS Santé</span>
+                                    </a>
+                                    
+                                    <a href="/connecteurs/insi/"
+                                       title="Téléservice INSi"
+                                       class="cell dropdownTools-list-item txt-ins">
+                                        <span class="dropdownTools-list-item-icon">
+                                            <img src="/img/svg/icon-medium-ins.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Téléservice INSi</span>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                            <div class="cell shrink dropdownTools-section">
+                                <span class="dropdownTools-section-title title-small">Composants</span>
+                                
+                                
+                                
+                                <div class="grid-x small-up-2 dropdownTools-list comingSoon">
+                                    
+                                    <a href="/composants/cps/"
+                                       title="Lecture carte CPS / CPx"
+                                       class="cell dropdownTools-list-item txt-cps comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-cps.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Lecture carte CPS / CPx</span>
+                                    </a>
+                                    
+                                    <a href="/composants/apcv/"
+                                       title="Mobilité ApCV"
+                                       class="cell dropdownTools-list-item txt-apcv comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-apcv.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Mobilité ApCV</span>
+                                    </a>
+                                    
+                                    <a href="/composants/ecps/"
+                                       title="Mobilité e-CPS / Pro Santé Connect"
+                                       class="cell dropdownTools-list-item txt-ecps comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-ecps.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Mobilité e-CPS / Pro Santé Connect</span>
+                                    </a>
+                                    
+                                    <a href="/composants/annuaire-sante/"
+                                       title="Annuaire Santé"
+                                       class="cell dropdownTools-list-item txt-directory comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-directory.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Annuaire Santé</span>
+                                    </a>
+                                    
+                                    <a href="/composants/sesam-vitale/"
+                                       title="Lecture carte vitale"
+                                       class="cell dropdownTools-list-item txt-sesam comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-sesam.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Lecture carte vitale</span>
+                                    </a>
+                                    
+                                    <a href="/composants/documents-structures/"
+                                       title="Structuration des donnnées de santé"
+                                       class="cell dropdownTools-list-item txt-doc comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-doc.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Structuration des donnnées de santé</span>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                            <div class="cell shrink dropdownTools-section">
+                                <span class="dropdownTools-section-title title-small">Plateformes</span>
+                                
+                                
+                                
+                                <div class="grid-x small-up-1 dropdownTools-list comingSoon">
+                                    
+                                    <a href="/plateformes/pfi/"
+                                       title="Plateforme PFI"
+                                       class="cell dropdownTools-list-item txt-pfi comingSoon">
+                                        <span class="dropdownTools-list-item-icon _large comingSoon">
+                                            <img src="/img/svg/icon-medium-pfi.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Plateforme PFI</span>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div> 
+        </div>
+        
+    </div>
+
+    
+    <div class="cell auto grid-x align-right headerMenuMobile">
+        <div class="headerMenuMobile-btn">
+            <div class="hamburger hamburger--3dx" id="burger-menu">
+                <div class="hamburger-box" id="burger-menu-open-button">
+                    <div class="hamburger-inner"></div>
+                </div>
+            </div>
+        </div>
+
+        <nav id="burger-menu-content" class="headerMenuMobile-nav">
+            <a href="/" title="" class="headerMenuMobile-nav-item">Accueil <i class="fa fa-chevron-right"></i></a>
+            <span title="Outils" class="toolsMobile-title title-small">Outils</span>
+            <div>
+                <ul class="toolsMobile">
+                    <li class="dropdown">
+                        <div class="grid-x content dropdownTools">
+                            <div class="cell small-24 dropdownTools-section">
+                                <span class="dropdownTools-section-title title-tiny">Connecteurs</span>
+                                
+                                
+                                <div class="grid-x dropdownTools-list _appearList">
+                                    
+                                    <a href="/connecteurs/dmp/"
+                                       title="DMP"
+                                       class="cell small-24 dropdownTools-list-item txt-dmpc">
+                                        <span class="dropdownTools-list-item-icon">
+                                            <img src="/img/svg/icon-medium-dmpc.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">DMP</span>
+                                    </a>
+                                    
+                                    <a href="/connecteurs/ms-sante/"
+                                       title="MS Santé"
+                                       class="cell small-24 dropdownTools-list-item txt-mssante">
+                                        <span class="dropdownTools-list-item-icon">
+                                            <img src="/img/svg/icon-medium-mssante.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">MS Santé</span>
+                                    </a>
+                                    
+                                    <a href="/connecteurs/insi/"
+                                       title="Téléservice INSi"
+                                       class="cell small-24 dropdownTools-list-item txt-ins">
+                                        <span class="dropdownTools-list-item-icon">
+                                            <img src="/img/svg/icon-medium-ins.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Téléservice INSi</span>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                            <div class="cell small-24 dropdownTools-section">
+                                <span class="dropdownTools-section-title title-tiny">Composants</span>
+                                
+                                
+                                
+                                <div class="grid-x dropdownTools-list comingSoon">
+                                    
+                                    <a href="/composants/cps/"
+                                       title="Lecture carte CPS / CPx"
+                                       class="cell small-24 dropdownTools-list-item txt-cps comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-cps.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Lecture carte CPS / CPx</span>
+                                    </a>
+                                    
+                                    <a href="/composants/apcv/"
+                                       title="Mobilité ApCV"
+                                       class="cell small-24 dropdownTools-list-item txt-apcv comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-apcv.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Mobilité ApCV</span>
+                                    </a>
+                                    
+                                    <a href="/composants/ecps/"
+                                       title="Mobilité e-CPS / Pro Santé Connect"
+                                       class="cell small-24 dropdownTools-list-item txt-ecps comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-ecps.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Mobilité e-CPS / Pro Santé Connect</span>
+                                    </a>
+                                    
+                                    <a href="/composants/annuaire-sante/"
+                                       title="Annuaire Santé"
+                                       class="cell small-24 dropdownTools-list-item txt-directory comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-directory.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Annuaire Santé</span>
+                                    </a>
+                                    
+                                    <a href="/composants/sesam-vitale/"
+                                       title="Lecture carte vitale"
+                                       class="cell small-24 dropdownTools-list-item txt-sesam comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-sesam.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Lecture carte vitale</span>
+                                    </a>
+                                    
+                                    <a href="/composants/documents-structures/"
+                                       title="Structuration des donnnées de santé"
+                                       class="cell small-24 dropdownTools-list-item txt-doc comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-small-doc.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Structuration des donnnées de santé</span>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+
+                            <div class="cell small-24 dropdownTools-section">
+                                <span class="dropdownTools-section-title title-tiny">Plateformes</span>
+                                
+                                
+                                
+                                <div class="grid-x dropdownTools-list comingSoon">
+                                    
+                                    <a href="/plateformes/pfi/"
+                                       title="Plateforme PFI"
+                                       class="cell small-24 dropdownTools-list-item txt-pfi comingSoon">
+                                        <span class="dropdownTools-list-item-icon comingSoon">
+                                            <img src="/img/svg/icon-medium-pfi.svg"/>
+                                        </span>
+                                        <span class="dropdownTools-list-item-label">Plateforme PFI</span>
+                                    </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            
+            <a href="/faq" title="" class="headerMenuMobile-nav-item">FAQ <i class="fa fa-chevron-right"></i></a>
+            <a href="https://doc.devbox-sante.fr" class="headerMenuMobile-nav-contact" target="_blank"><i
+                    class="fa fa-book"></i>Documentation</a>
+            <a href="/contact" class="headerMenuMobile-nav-contact"><i
+                    class="fa fa-comment-dots"></i>Contact</a>
+        </nav>
+    </div>
+    
+</header>
+
+
+
+        <div class="main-container">
+            
+
+<div id="sectionToolsIntro" class="sectionToolsIntro _pfi">
+    <div class="grid-x align-middle section-inner-wrapper">
+        <div class="cell small-24 large-12 text-left">
+            <h1 class="txt-white title-big">Plateforme PFI</h1>
+            <h2 class="txt-white title-medium">Une Plateforme d&#39;Intermédiation</h2>
+            <p class="txt-white">Mettre en place une PFI au sein de votre établissement de santé</p>
+            <br>
+            <a href="#sectionAboutTool"
+               class="button white txt-pfi has-icon-right">
+                Accéder à la plateforme<i class="fa fa-chevron-right"></i>
+            </a>
+        </div>
+
+        <div class="cell hide-for-small-only large-12"></div>
+
+        <img src="/img/svg/illu-pfi.svg" alt="Mettre en place une PFI au sein de votre établissement de santé" class="sectionToolsIntro-illu" data-parallax='{"y":"-8%"}'>
+
+        <a class="scroll-indicator _pfi" href="#sectionAboutTool">
+            <div class="scroll-downs">
+                <div class="mousey">
+                    <div class="scroller"></div>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+
+
+<div id="sectionAboutTool" class="section">
+    <div class="section-inner-wrapper">
+        <div class="grid-x align-middle grid-padding-x">
+            <div class="cell small-24 medium-16 text-justify">
+                <h1 class="title-section _pfi">À propos de l'outil</h1>
+                <p><p><em><strong>&ldquo;La fonction plateforme d&rsquo;intermédiation (PFI) permet d&rsquo;interconnecter le SIH avec l&rsquo;extérieur (API DMP et MSSanté). Elle peut être intégrée à un DPI, un EAI&hellip;, ou être portée par une solution distincte.&rdquo;</strong></em> <em>(<a href="https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi%29" target="_blank" rel="noopener" target="_blank" rel="noopener">https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi)</a>
+</em></p>
+<p>Nous avons fait le choix de la troisième solution et avons développé à partir des dernières technologies open-sources disponibles (Spring-Boot, MongoDB, Docker) la <strong>DevBox-Santé PFI</strong>. Elle intègre l&rsquo;ensemble des composants homologuées de la DevBox-Santé afin de fournir une implémentation sans fioriture, sans coûts d&rsquo;hébergement et de maintenances faramineux.</p>
+<p>La DevBox-Santé PFI couvre ainsi :</p>
+<ul>
+<li>L&rsquo;alimentation du DMP et la transmission de documents via MSSanté</li>
+<li>L&rsquo;implémentation des profils IHE et des transactions HL7</li>
+<li>La maturité en termes de couverture des risques de Sécurité des Systèmes d&rsquo;Informations (SSI)</li>
+</ul>
+<p><strong>Intéressé par la mise en place d&rsquo;une PFI au sein de votre établissement ? <a href="/contact">Contactez-nous</a>
+</strong></p>
+</p>
+            </div>
+            <div class="cell small-24 medium-8 text-center">
+                <img src="/img/plateformes/PFI-admin.png" data-parallax='{"y":"2%"}'>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="sectionSimilarTool" class="section">
+    <div class="section-inner-wrapper">
+        <div class="connectorsBox">
+            <div class="grid-x grid-margin-x grid-margin-y">
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </div>
+
+        <footer>
+    <div class="grid-x grid-padding-y section-inner-wrapper">
+        <div class="cell small-24o large-auto">
+            <div class="grid-y full-height">
+                <div class="cell shrink">
+                    <img src="/img/svg/logo-for-whiteBg.svg" alt="DevBox Santé" width="168px">
+                </div>
+
+                <div class="cell small-shrink large-auto"></div>
+
+                <div class="cell small-shrink large-auto grid-y align-left">
+                    <div class="cell shrink">
+                        <small  style="padding-right: 8px">Powered by</small><a href="http://www.devcoop.fr" target="_blank"><img style="height:24px" src="/img/png/logo-devcoop.png" alt="Devcoop Logo"></a>
+                    </div>
+                    <div class="cell shrink">
+                        <small><strong>©2020 DevBox Santé</strong></small>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="cell small-24 large-shrink">
+            <span class="title-small txt-primary">Plans du site</span>
+            <hr>
+            <ul class="siteMap-list">
+                
+                <li class="siteMap-list-item"><a href="/connecteurs/dmp/">DMP</a></li>
+                
+                <li class="siteMap-list-item"><a href="/connecteurs/ms-sante/">MS Santé</a></li>
+                
+                <li class="siteMap-list-item"><a href="/connecteurs/insi/">Téléservice INSi</a></li>
+                
+            </ul>
+            <ul class="siteMap-list">
+                
+                <li class="siteMap-list-item"><a href="/composants/cps/">Lecture carte CPS / CPx</a></li>
+                
+                <li class="siteMap-list-item"><a href="/composants/apcv/">Mobilité ApCV</a></li>
+                
+                <li class="siteMap-list-item"><a href="/composants/ecps/">Mobilité e-CPS / Pro Santé Connect</a></li>
+                
+                <li class="siteMap-list-item"><a href="/composants/annuaire-sante/">Annuaire Santé</a></li>
+                
+                <li class="siteMap-list-item"><a href="/composants/sesam-vitale/">Lecture carte vitale</a></li>
+                
+                <li class="siteMap-list-item"><a href="/composants/documents-structures/">Structuration des donnnées de santé</a></li>
+                
+            </ul>
+            <ul class="siteMap-list">
+                <li class="siteMap-list-item"><a href="/expertises">Expertises</a></li>
+                <li class="siteMap-list-item"><a href="/faq">FAQ</a></li>
+                <li class="siteMap-list-item"><a href="/contact">Contact</a></li>
+                <li class="siteMap-list-item"><a href="/mentions">Mentions Légales</a></li>
+            </ul>
+        </div>
+        <div class="cell small-24 large-auto"></div>
+        <div class="cell small-24 large-shrink">
+            <span class="title-small txt-primary">Retrouvez-nous sur</span>
+            <hr>
+            <ul class="networksList">
+                <li class="networksList-item"><a href="https://www.devcoop.fr" target="_blank"><i class="fa fa-globe"></i></a></li>
+                <li class="networksList-item"><a href="https://bitbucket.org/devbox-sante" target="_blank"><i class="fab fa-bitbucket"></i></a></li>
+                <li class="networksList-item"><a href="https://github.com/DEVCOOP/dmpc-public" target="_blank"><i class="fab fa-github"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+        
+
+<script></script>
+
+    </body>
+
+</html>

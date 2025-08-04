@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plateformes on DevBox santé</title>
+    <link>https://www.devbox-sante.fr/plateformes/</link>
+    <description>Recent content in Plateformes on DevBox santé</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/plateformes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plateforme PFI</title>
+      <link>https://www.devbox-sante.fr/plateformes/pfi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devbox-sante.fr/plateformes/pfi/</guid>
+      <description>&amp;ldquo;La fonction plateforme d&amp;rsquo;intermédiation (PFI) permet d&amp;rsquo;interconnecter le SIH avec l&amp;rsquo;extérieur (API DMP et MSSanté). Elle peut être intégrée à un DPI, un EAI&amp;hellip;, ou être portée par une solution distincte.&amp;rdquo; (https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi) Nous avons fait le choix de la troisième solution et avons développé à partir des dernières technologies open-sources disponibles (Spring-Boot, MongoDB, Docker) la DevBox-Santé PFI. Elle intègre l&amp;rsquo;ensemble des composants homologuées de la DevBox-Santé afin de fournir une implémentation sans fioriture, sans coûts d&amp;rsquo;hébergement et de maintenances faramineux.</description>
+    </item>
+    
+  </channel>
+</rss>

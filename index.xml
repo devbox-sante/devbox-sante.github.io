@@ -16,6 +16,15 @@
     </item>
     
     <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Puis je souscrire à une licence pour un seul composant ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -81,15 +90,6 @@ L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votr
     </item>
     
     <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DMP</title>
       <link>https://www.devbox-sante.fr/connecteurs/dmp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -143,12 +143,30 @@ Intégration avec des objets connectés de santé.</description>
     </item>
     
     <item>
+      <title>Plateforme PFI</title>
+      <link>https://www.devbox-sante.fr/plateformes/pfi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devbox-sante.fr/plateformes/pfi/</guid>
+      <description>&amp;ldquo;La fonction plateforme d&amp;rsquo;intermédiation (PFI) permet d&amp;rsquo;interconnecter le SIH avec l&amp;rsquo;extérieur (API DMP et MSSanté). Elle peut être intégrée à un DPI, un EAI&amp;hellip;, ou être portée par une solution distincte.&amp;rdquo; (https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi) Nous avons fait le choix de la troisième solution et avons développé à partir des dernières technologies open-sources disponibles (Spring-Boot, MongoDB, Docker) la DevBox-Santé PFI. Elle intègre l&amp;rsquo;ensemble des composants homologuées de la DevBox-Santé afin de fournir une implémentation sans fioriture, sans coûts d&amp;rsquo;hébergement et de maintenances faramineux.</description>
+    </item>
+    
+    <item>
       <title>Proposez vous des offres SAAS ? Si oui, pour quels composants ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
       <description>Oui, nous proposons une offre SAAS pour la gestion d&amp;rsquo;annuaire. Contactez-nous.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
     </item>
     
     <item>
