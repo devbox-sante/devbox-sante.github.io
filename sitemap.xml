@@ -22,6 +22,10 @@
         <changefreq>monthly</changefreq>
     </url>
     <url>
+        <loc>https://www.devbox-sante.fr/plateformes/proxy-esante/</loc> 
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
         <loc>https://www.devbox-sante.fr/composants/annuaire-sante/</loc> 
         <changefreq>monthly</changefreq>
     </url>

@@ -15,5 +15,16 @@
       <description>&amp;ldquo;La fonction plateforme d&amp;rsquo;intermédiation (PFI) permet d&amp;rsquo;interconnecter le SIH avec l&amp;rsquo;extérieur (API DMP et MSSanté). Elle peut être intégrée à un DPI, un EAI&amp;hellip;, ou être portée par une solution distincte.&amp;rdquo; (https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi) Nous avons fait le choix de la troisième solution et avons développé à partir des dernières technologies open-sources disponibles (Spring-Boot, MongoDB, Docker) la DevBox-Santé PFI. Elle intègre l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé afin de fournir une implémentation qui va à l&amp;rsquo;essentiel, sans coût d&amp;rsquo;hébergement et de maintenance élevé.</description>
     </item>
     
+    <item>
+      <title>Proxy eSanté</title>
+      <link>https://www.devbox-sante.fr/plateformes/proxy-esante/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.devbox-sante.fr/plateformes/proxy-esante/</guid>
+      <description>Dans un environnement &amp;ldquo;Dockerisé&amp;rdquo;, La DevBox-santé eProxy vous permet d&amp;rsquo;intégrer l&amp;rsquo;espace de confiance ProSanté Connect. Cette dernière, couplée avec l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé, vous permet de vous interfacer aux différents services socles (INSi, DMP &amp;hellip;) et d&amp;rsquo;obtenir vos agréments CNDA plus rapidement.
+Intégrer l&amp;rsquo;espace de confiance ProSanté Connect en intégrant la DevBox-Santé eProxy permet de :
+simplifier l&amp;rsquo;authentification du professionnel de santé faciliter les usages des services socles augmenter le niveau de sécurité de vos applications répondre aux critères du Ségur Intéressé par l&amp;rsquo;intégration de cette plateforme ?</description>
+    </item>
+    
   </channel>
 </rss>
