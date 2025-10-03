@@ -4,41 +4,29 @@
     <title>Connecteurs on DevBox santé</title>
     <link>https://www.devbox-sante.fr/connecteurs/</link>
     <description>Recent content in Connecteurs on DevBox santé</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/connecteurs/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://www.devbox-sante.fr/connecteurs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DMP</title>
       <link>https://www.devbox-sante.fr/connecteurs/dmp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/connecteurs/dmp/</guid>
-      <description>Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&amp;hellip; Il permet de partager ces informations avec les professionnels de santé mais aussi au patient au travers de &amp;ldquo;Mon Espace Santé&amp;rdquo;
-Afin de récupérer ou d&amp;rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur. Vous pouvez décider d&amp;rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions ou de déléguer cette complexité à un éditeur spécialisé.</description>
+      <description>&lt;p&gt;Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&amp;hellip;&#xA;Il permet de partager ces informations avec les professionnels de santé mais aussi au patient au travers de &amp;ldquo;Mon Espace Santé&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Afin de récupérer ou d&amp;rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur.&#xA;Vous pouvez décider d&amp;rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions&#xA;ou de déléguer cette complexité à un éditeur spécialisé.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MS Santé</title>
       <link>https://www.devbox-sante.fr/connecteurs/ms-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/connecteurs/ms-sante/</guid>
-      <description>La MSSanté , Messagerie sécurisée de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&amp;rsquo;échanger par mail des données de santé.
-La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messagerie qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définies par l&amp;rsquo;ANS.
-Cet espace de confiance sécurisé comprend :
-un annuaire national MSSanté des professionnels une liste blanche des opérateurs L&amp;rsquo;offre DevBox-santé MSS comprend : Une intégration avec les opérateurs compatibles avec le nouveau référentiel socle MSSanté #2 Une intégration avec Mailiz Un aperçu des possibilités du connecteur MS-Santé ?</description>
+      <description>&lt;p&gt;La &lt;a href=&#34;https://esante.gouv.fr/securite/messageries-de-sante-mssante&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSSanté&lt;/a&gt;&#xA;, Messagerie sécurisée de santé, est un espace&#xA;de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&amp;rsquo;échanger par mail des données de santé.&lt;/p&gt;&#xA;&lt;p&gt;La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messagerie qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définies par l&amp;rsquo;ANS.&lt;/p&gt;&#xA;&lt;p&gt;Cet espace de confiance sécurisé comprend :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;un annuaire national MSSanté des professionnels&lt;/li&gt;&#xA;&lt;li&gt;une liste blanche des opérateurs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;L&amp;rsquo;offre DevBox-santé MSS comprend : &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Téléservice INSi</title>
       <link>https://www.devbox-sante.fr/connecteurs/insi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/connecteurs/insi/</guid>
-      <description>L&amp;rsquo;INS est l&amp;rsquo;identité national de santé permettant de référencer les données de Santé.
-Il est l&amp;rsquo;un des piliers de la feuille de route du virage numérique de Ma santé 2022.
-L’utilisation de l’Identité National de Santé pour référencer les données de santé est devenu incontournable aujourd&amp;rsquo;hui. Ce référencement des données de santé avec l’INS est indispensable afin d’éviter des erreurs d’identification des personnes prises en charge.
-Deux types de numéros sont disponibles pour l&amp;rsquo;INS :</description>
+      <description>&lt;p&gt;&lt;strong&gt;L&amp;rsquo;INS est l&amp;rsquo;identité national de santé permettant de référencer les données de Santé.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Il est l&amp;rsquo;un des piliers de la feuille de route du virage numérique de Ma santé 2022.&lt;/p&gt;&#xA;&lt;p&gt;L’utilisation de l’Identité National de Santé pour référencer les données de santé est devenu incontournable aujourd&amp;rsquo;hui.&#xA;Ce référencement des données de santé avec l’INS est indispensable afin d’éviter des erreurs d’identification des personnes prises en charge.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Deux types de numéros sont disponibles pour l&amp;rsquo;INS :&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

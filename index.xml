@@ -4,282 +4,198 @@
     <title>DevBox santé</title>
     <link>https://www.devbox-sante.fr/</link>
     <description>Recent content on DevBox santé</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.devbox-sante.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
     </item>
-    
     <item>
       <title>Puis je souscrire à une licence pour un seul composant ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.</description>
+      <description>&lt;p&gt;Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quel tarif proposez-vous ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Nos composants et connecteurs sont des briques embarquées dans vos solutions, nous vous fournissons un pack d&amp;rsquo;installation ainsi qu&amp;rsquo;un accompagnement auprès du CNDA s&amp;rsquo;il y a lieu mais aussi un support lors de la mise en production de votre solution. Cette prestation fait l&amp;rsquo;objet d&amp;rsquo;une tarification en fonction des composants fournis.
-Une fois les composants en production, une licence d&amp;rsquo;utilisation pour la maintenance s&amp;rsquo;applique. Elle dépend des composants intégrés et du nombre de professionnels/établissements déployés.</description>
+      <description>&lt;p&gt;Nos composants et connecteurs sont des briques embarquées dans vos solutions, nous vous fournissons un pack d&amp;rsquo;installation ainsi qu&amp;rsquo;un accompagnement auprès du CNDA s&amp;rsquo;il y a lieu mais aussi un support lors de la mise en production de votre solution. Cette prestation fait l&amp;rsquo;objet d&amp;rsquo;une tarification en fonction des composants fournis.&lt;/p&gt;&#xA;&lt;p&gt;Une fois les composants en production, une licence d&amp;rsquo;utilisation pour la maintenance s&amp;rsquo;applique. Elle dépend des composants intégrés et du nombre de professionnels/établissements déployés.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
     </item>
-    
     <item>
       <title></title>
       <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
     </item>
-    
     <item>
       <title>Quelles prestations proposez-vous ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Les prestations proposées par DEVCOOP sont :
-L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution . De l&amp;rsquo;assistance technique pour le développement de vos propres solutions. </description>
+      <description>&lt;p&gt;Les prestations proposées par DEVCOOP sont :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution&lt;/li&gt;&#xA;&lt;li&gt;Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution .&lt;/li&gt;&#xA;&lt;li&gt;De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
     </item>
-    
     <item>
       <title>DMP</title>
       <link>https://www.devbox-sante.fr/connecteurs/dmp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/connecteurs/dmp/</guid>
-      <description>Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&amp;hellip; Il permet de partager ces informations avec les professionnels de santé mais aussi au patient au travers de &amp;ldquo;Mon Espace Santé&amp;rdquo;
-Afin de récupérer ou d&amp;rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur. Vous pouvez décider d&amp;rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions ou de déléguer cette complexité à un éditeur spécialisé.</description>
+      <description>&lt;p&gt;Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&amp;hellip;&#xA;Il permet de partager ces informations avec les professionnels de santé mais aussi au patient au travers de &amp;ldquo;Mon Espace Santé&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Afin de récupérer ou d&amp;rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur.&#xA;Vous pouvez décider d&amp;rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions&#xA;ou de déléguer cette complexité à un éditeur spécialisé.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lecture carte CPS / CPx</title>
       <link>https://www.devbox-sante.fr/composants/cps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/cps/</guid>
-      <description>La CPS-API proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, permet d&amp;rsquo;accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
-Notamment :
-authentifier un utilisateur gérer les différents lecteurs de carte et cartes disponibles gérer l&amp;rsquo;état des lecteurs (carte arrachée) accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 telles que les données d&amp;rsquo;identification de la carte, du porteur de la carte et la liste des situations d&amp;rsquo;exercice.</description>
+      <description>&lt;p&gt;La CPS-API proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, permet d&amp;rsquo;accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.&lt;/p&gt;&#xA;&lt;p&gt;Notamment :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;authentifier un utilisateur&lt;/li&gt;&#xA;&lt;li&gt;gérer les différents lecteurs de carte et cartes disponibles&lt;/li&gt;&#xA;&lt;li&gt;gérer l&amp;rsquo;état des lecteurs (carte arrachée)&lt;/li&gt;&#xA;&lt;li&gt;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 telles que les données d&amp;rsquo;identification de la carte,&#xA;du porteur de la carte et la liste des situations d&amp;rsquo;exercice.&lt;/li&gt;&#xA;&lt;li&gt;accéder aux différents certificats&lt;/li&gt;&#xA;&lt;li&gt;signer des fichiers binaires&lt;/li&gt;&#xA;&lt;li&gt;signer des fichiers PDF.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;C&amp;rsquo;est l&amp;rsquo;intégration complète de la cryptolib CPS simplifiée.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mobilité ApCV</title>
       <link>https://www.devbox-sante.fr/composants/apcv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/apcv/</guid>
-      <description>L&amp;rsquo;application carte vitale ApCV est une application mobile développée par le GIE SesamVitale. Elle permet au patient de présenter ses informations vitales via son téléphone mobile.
-Intégrer dans votre application la lecture NFC ou la lecture du QRCode disponible dans l&amp;rsquo;application mobile du patient puis accéder au téléservice d&amp;rsquo;authentification ApCV, vous permet d&amp;rsquo;acquérir ces informations de la carte vitale permettant d&amp;rsquo;identifier de manière dématérialiser votre patient au sein de votre application.</description>
+      <description>&lt;p&gt;L&amp;rsquo;application carte vitale ApCV est une application mobile développée par le GIE SesamVitale. Elle permet au patient de présenter ses informations vitales via son téléphone mobile.&lt;/p&gt;&#xA;&lt;p&gt;Intégrer dans votre application la lecture NFC ou la lecture du QRCode disponible dans l&amp;rsquo;application mobile du patient puis accéder au téléservice d&amp;rsquo;authentification ApCV, vous permet d&amp;rsquo;acquérir ces informations de la carte vitale permettant d&amp;rsquo;identifier de manière dématérialiser votre patient au sein de votre application.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mobilité e-CPS / Pro Santé Connect</title>
       <link>https://www.devbox-sante.fr/composants/ecps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/ecps/</guid>
-      <description>Après des expérimentations réussies, nous mettons en œuvre ProSantéConnect au sein de nos solutions SAAS.
-Notre valeur ajoutée :
-Expertise dans la mise en œuvre de solution d&amp;rsquo;authentifiation basée sur ProSantéConnect Prise en compte des possibilités de la e-CPS et de Pro Santé Connect pour les accès aux différents téléservices supportés par la DevBox-Santé Intéressé par l&amp;rsquo;intégration de Pro Santé Connect dans vos applications ? Contactez-nous </description>
+      <description>&lt;p&gt;Après des expérimentations réussies, nous mettons en œuvre ProSantéConnect au sein de nos solutions SAAS.&lt;/p&gt;&#xA;&lt;p&gt;Notre valeur ajoutée :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Expertise dans la mise en œuvre de solution d&amp;rsquo;authentifiation basée sur ProSantéConnect&lt;/li&gt;&#xA;&lt;li&gt;Prise en compte des possibilités de la e-CPS et de Pro Santé Connect pour les accès aux différents téléservices supportés par la DevBox-Santé&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Intéressé par l&amp;rsquo;intégration de Pro Santé Connect dans vos applications ? &lt;a href=&#34;https://www.devbox-sante.fr/contact&#34;&gt;Contactez-nous&lt;/a&gt;&#xA;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Optim&#39;Care</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés et les professionnels de santé impliqués dans leur suivi.
-Réalisation de la plateforme de santé accessible via des applications mobiles et webs.
-Intégration avec des objets connectés de santé.</description>
+      <description>&lt;p&gt;Optim’Care développe une plateforme unique, évolutive et sur-mesure intégrant différentes solutions de e-santé pour les patients transplantés&#xA;et les professionnels de santé impliqués dans leur suivi.&lt;/p&gt;&#xA;&lt;p&gt;Réalisation de la plateforme de santé accessible via des applications mobiles et webs.&lt;/p&gt;&#xA;&lt;p&gt;Intégration avec des objets connectés de santé.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Plateforme PFI</title>
       <link>https://www.devbox-sante.fr/plateformes/pfi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/plateformes/pfi/</guid>
-      <description>&amp;ldquo;La fonction plateforme d&amp;rsquo;intermédiation (PFI) permet d&amp;rsquo;interconnecter le SIH avec l&amp;rsquo;extérieur (API DMP et MSSanté). Elle peut être intégrée à un DPI, un EAI&amp;hellip;, ou être portée par une solution distincte.&amp;rdquo; (https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi) Nous avons fait le choix de la troisième solution et avons développé à partir des dernières technologies open-sources disponibles (Spring-Boot, MongoDB, Docker) la DevBox-Santé PFI. Elle intègre l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé afin de fournir une implémentation qui va à l&amp;rsquo;essentiel, sans coût d&amp;rsquo;hébergement et de maintenance élevé.</description>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;La fonction plateforme d&amp;rsquo;intermédiation (PFI) permet d&amp;rsquo;interconnecter le SIH avec l&amp;rsquo;extérieur (API DMP et MSSanté). Elle peut être intégrée à un DPI, un EAI&amp;hellip;, ou être portée par une solution distincte.&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;(&lt;a href=&#34;https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi)&lt;/a&gt;&#xA;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nous avons fait le choix de la troisième solution et avons développé à partir des dernières technologies open-sources disponibles (Spring-Boot, MongoDB, Docker) la &lt;strong&gt;DevBox-Santé PFI&lt;/strong&gt;. Elle intègre l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé afin de fournir une implémentation qui va à l&amp;rsquo;essentiel, sans coût d&amp;rsquo;hébergement et de maintenance élevé.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Proposez vous des offres SAAS ? Si oui, pour quels composants ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Oui, nous proposons une offre SAAS pour la gestion d&amp;rsquo;annuaire. Contactez-nous.</description>
+      <description>&lt;p&gt;Oui, nous proposons une offre SAAS pour la gestion d&amp;rsquo;annuaire. Contactez-nous.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Proxy eSanté</title>
       <link>https://www.devbox-sante.fr/plateformes/proxy-esante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/plateformes/proxy-esante/</guid>
-      <description>Dans un environnement &amp;ldquo;Dockerisé&amp;rdquo;, La DevBox-santé eProxy vous permet d&amp;rsquo;intégrer l&amp;rsquo;espace de confiance ProSanté Connect. Cette dernière, couplée avec l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé, vous permet de vous interfacer aux différents services socles (INSi, DMP &amp;hellip;) et d&amp;rsquo;obtenir vos agréments CNDA plus rapidement.
-Intégrer l&amp;rsquo;espace de confiance ProSanté Connect en intégrant la DevBox-Santé eProxy permet de :
-simplifier l&amp;rsquo;authentification du professionnel de santé faciliter les usages des services socles augmenter le niveau de sécurité de vos applications répondre aux critères du Ségur Intéressé par l&amp;rsquo;intégration de cette plateforme ?</description>
+      <description>&lt;p&gt;Dans un environnement &amp;ldquo;Dockerisé&amp;rdquo;, La &lt;strong&gt;DevBox-santé eProxy&lt;/strong&gt; vous permet d&amp;rsquo;intégrer l&amp;rsquo;espace de confiance ProSanté Connect.&#xA;Cette dernière, couplée avec l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé, vous permet de vous interfacer aux différents services socles (INSi, DMP &amp;hellip;) et d&amp;rsquo;obtenir vos agréments CNDA plus rapidement.&lt;/p&gt;&#xA;&lt;p&gt;Intégrer l&amp;rsquo;espace de confiance ProSanté Connect en intégrant la &lt;strong&gt;DevBox-Santé eProxy&lt;/strong&gt; permet de :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;simplifier l&amp;rsquo;authentification du professionnel de santé&lt;/li&gt;&#xA;&lt;li&gt;faciliter les usages des services socles&lt;/li&gt;&#xA;&lt;li&gt;augmenter le niveau de sécurité de vos applications&lt;/li&gt;&#xA;&lt;li&gt;répondre aux critères du Ségur&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Intéressé par l&amp;rsquo;intégration de cette plateforme ? &lt;a href=&#34;https://www.devbox-sante.fr/contact&#34;&gt;Contactez-nous&lt;/a&gt;&#xA;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
     </item>
-    
     <item>
       <title>Annuaire Santé</title>
       <link>https://www.devbox-sante.fr/composants/annuaire-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/annuaire-sante/</guid>
-      <description>L&amp;rsquo;annuaire santé proposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv ou encore maitenant via des APIs complexes en FHIR.
-Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</description>
+      <description>&lt;p&gt;L&amp;rsquo;&lt;a href=&#34;https://annuaire.sante.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;annuaire santé&lt;/a&gt;&#xA; proposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli .&#xA;La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv ou encore maitenant via des APIs complexes en FHIR.&lt;/p&gt;&#xA;&lt;p&gt;Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lecture carte vitale</title>
       <link>https://www.devbox-sante.fr/composants/sesam-vitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
-      <description>Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.
-La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.
-Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</description>
+      <description>&lt;p&gt;Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.&lt;/p&gt;&#xA;&lt;p&gt;La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.&lt;/p&gt;&#xA;&lt;p&gt;Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente,&#xA;la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mentions légales</title>
       <link>https://www.devbox-sante.fr/mentions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/mentions/</guid>
-      <description>Informations légales : Raison sociale : DEVCOOP Consulting
-Forme juridique : SCOP SARL
-Numéro de SIRET : 51786565500024
-Adresse : 228 avenue de Cadaujac 33850 Léognan
-Capital social : 19 920 €
-Téléphone : 0360455713
-Email : contact@devcoop.fr Site Web : www.devbox-sante.fr Responsable publication : DEVCOOP Consulting
-Conditions générales d&amp;rsquo;utilisation du site et des services proposés. L’utilisation du site https://www.devbox-sante.fr implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites.</description>
+      <description>&lt;h1 id=&#34;informations-légales-&#34;&gt;Informations légales :&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Raison sociale : DEVCOOP Consulting&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Forme juridique : SCOP SARL&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Numéro de SIRET : 51786565500024&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Adresse : 228 avenue de Cadaujac 33850 Léognan&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Capital social : 19 920 €&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Téléphone : 0360455713&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Email : &lt;a href=&#34;mailto:contact@devcoop.fr&#34;&gt;contact@devcoop.fr&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Site Web : &lt;a href=&#34;https://www.devbox-sante.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.devbox-sante.fr&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Responsable publication : DEVCOOP Consulting&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;conditions-générales-dutilisation-du-site-et-des-services-proposés&#34;&gt;Conditions générales d&amp;rsquo;utilisation du site et des services proposés.&lt;/h1&gt;&#xA;&lt;p&gt;L’utilisation du site &lt;a href=&#34;https://www.devbox-sante.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.devbox-sante.fr&lt;/a&gt;&#xA; implique l’acceptation pleine et entière des conditions générales d’utilisation ci-après décrites.&#xA;Ces conditions d’utilisation sont susceptibles d’être modifiées ou complétées à tout moment, les utilisateurs du site&#xA;&lt;a href=&#34;https://www.devbox-sante.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.devbox-sante.fr&lt;/a&gt;&#xA; sont donc invités à les consulter de manière régulière.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MS Santé</title>
       <link>https://www.devbox-sante.fr/connecteurs/ms-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/connecteurs/ms-sante/</guid>
-      <description>La MSSanté , Messagerie sécurisée de santé, est un espace de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&amp;rsquo;échanger par mail des données de santé.
-La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messagerie qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définies par l&amp;rsquo;ANS.
-Cet espace de confiance sécurisé comprend :
-un annuaire national MSSanté des professionnels une liste blanche des opérateurs L&amp;rsquo;offre DevBox-santé MSS comprend : Une intégration avec les opérateurs compatibles avec le nouveau référentiel socle MSSanté #2 Une intégration avec Mailiz Un aperçu des possibilités du connecteur MS-Santé ?</description>
+      <description>&lt;p&gt;La &lt;a href=&#34;https://esante.gouv.fr/securite/messageries-de-sante-mssante&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MSSanté&lt;/a&gt;&#xA;, Messagerie sécurisée de santé, est un espace&#xA;de confiance au sein duquel les professionnels de santé, en ville comme à l&amp;rsquo;hôpital peuvent s&amp;rsquo;échanger par mail des données de santé.&lt;/p&gt;&#xA;&lt;p&gt;La MSSanté réunit un ensemble d&amp;rsquo;opérateurs de messagerie qui respectent les exigences de sécurité et d&amp;rsquo;intéropérabilité définies par l&amp;rsquo;ANS.&lt;/p&gt;&#xA;&lt;p&gt;Cet espace de confiance sécurisé comprend :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;un annuaire national MSSanté des professionnels&lt;/li&gt;&#xA;&lt;li&gt;une liste blanche des opérateurs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;L&amp;rsquo;offre DevBox-santé MSS comprend : &lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Prescription et administration de médicaments</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Réalisation d&amp;rsquo;une application mobile et web pour la prescription et l&amp;rsquo;administration de médicaments.
-Intégration d&amp;rsquo;une base de données médicamenteuse.</description>
+      <description>&lt;p&gt;Réalisation d&amp;rsquo;une application mobile et web pour la prescription et l&amp;rsquo;administration de médicaments.&lt;/p&gt;&#xA;&lt;p&gt;Intégration d&amp;rsquo;une base de données médicamenteuse.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Prise de RDV en ligne</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Réalisation d&amp;rsquo;applications webs et mobiles pour la prise de rendez-vous en ligne avec des professionnels de santé mais aussi la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisée.</description>
+      <description>&lt;p&gt;Réalisation d&amp;rsquo;applications webs et mobiles pour la prise de rendez-vous en ligne avec des professionnels de santé&#xA;mais aussi la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisée.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Structuration des donnnées de santé</title>
       <link>https://www.devbox-sante.fr/composants/documents-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/documents-structures/</guid>
-      <description>Parler de données de santé, implique de connaître un ensemble de normes. Êtes-vous familié des acronymes suivants : MOS, NOS, XDS, FHIR, HL7, HPRIM &amp;hellip;
-Bien sûr, il est possible de construire une application de santé sans les connaitre, mais toute application de santé est vouée à communiquer au sein d&amp;rsquo;un écosystème afin de partager des données entre soignants.
-Partager ces données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.</description>
+      <description>&lt;p&gt;Parler de données de santé, implique de connaître un ensemble de normes. Êtes-vous familié des acronymes suivants : MOS, NOS, XDS, FHIR, HL7, HPRIM &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Bien sûr, il est possible de construire une application de santé sans les connaitre, mais toute application de santé est vouée à communiquer au sein d&amp;rsquo;un écosystème afin de partager des données entre soignants.&lt;/p&gt;&#xA;&lt;p&gt;Partager ces données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Téléservice INSi</title>
       <link>https://www.devbox-sante.fr/connecteurs/insi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/connecteurs/insi/</guid>
-      <description>L&amp;rsquo;INS est l&amp;rsquo;identité national de santé permettant de référencer les données de Santé.
-Il est l&amp;rsquo;un des piliers de la feuille de route du virage numérique de Ma santé 2022.
-L’utilisation de l’Identité National de Santé pour référencer les données de santé est devenu incontournable aujourd&amp;rsquo;hui. Ce référencement des données de santé avec l’INS est indispensable afin d’éviter des erreurs d’identification des personnes prises en charge.
-Deux types de numéros sont disponibles pour l&amp;rsquo;INS :</description>
+      <description>&lt;p&gt;&lt;strong&gt;L&amp;rsquo;INS est l&amp;rsquo;identité national de santé permettant de référencer les données de Santé.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Il est l&amp;rsquo;un des piliers de la feuille de route du virage numérique de Ma santé 2022.&lt;/p&gt;&#xA;&lt;p&gt;L’utilisation de l’Identité National de Santé pour référencer les données de santé est devenu incontournable aujourd&amp;rsquo;hui.&#xA;Ce référencement des données de santé avec l’INS est indispensable afin d’éviter des erreurs d’identification des personnes prises en charge.&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Deux types de numéros sont disponibles pour l&amp;rsquo;INS :&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>XDiet</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Cette application exploite une méthode innovante pour une alimentation équilibrée et sans carence, sans interdit ni frustration distinguant cinq catégories d&amp;rsquo;aliments.
-Réalisation d&amp;rsquo;une application mobile de conseil et suivi en alimentation mettant en œuvre quelques mécanismes de gamification.</description>
+      <description>&lt;p&gt;Cette application exploite une méthode innovante pour une alimentation équilibrée et sans carence, sans interdit ni frustration distinguant&#xA;cinq catégories d&amp;rsquo;aliments.&lt;/p&gt;&#xA;&lt;p&gt;Réalisation d&amp;rsquo;une application mobile de conseil et suivi en alimentation mettant en œuvre quelques mécanismes de gamification.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

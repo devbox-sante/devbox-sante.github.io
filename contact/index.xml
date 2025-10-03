@@ -4,7 +4,8 @@
     <title>Contactez DEVCOOP Consulting on DevBox santé</title>
     <link>https://www.devbox-sante.fr/contact/</link>
     <description>Recent content in Contactez DEVCOOP Consulting on DevBox santé</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/contact/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://www.devbox-sante.fr/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -4,45 +4,36 @@
     <title>Foire aux questions on DevBox santé</title>
     <link>https://www.devbox-sante.fr/faq/</link>
     <description>Recent content in Foire aux questions on DevBox santé</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/faq/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://www.devbox-sante.fr/faq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Puis je souscrire à une licence pour un seul composant ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.</description>
+      <description>&lt;p&gt;Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quel tarif proposez-vous ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Nos composants et connecteurs sont des briques embarquées dans vos solutions, nous vous fournissons un pack d&amp;rsquo;installation ainsi qu&amp;rsquo;un accompagnement auprès du CNDA s&amp;rsquo;il y a lieu mais aussi un support lors de la mise en production de votre solution. Cette prestation fait l&amp;rsquo;objet d&amp;rsquo;une tarification en fonction des composants fournis.
-Une fois les composants en production, une licence d&amp;rsquo;utilisation pour la maintenance s&amp;rsquo;applique. Elle dépend des composants intégrés et du nombre de professionnels/établissements déployés.</description>
+      <description>&lt;p&gt;Nos composants et connecteurs sont des briques embarquées dans vos solutions, nous vous fournissons un pack d&amp;rsquo;installation ainsi qu&amp;rsquo;un accompagnement auprès du CNDA s&amp;rsquo;il y a lieu mais aussi un support lors de la mise en production de votre solution. Cette prestation fait l&amp;rsquo;objet d&amp;rsquo;une tarification en fonction des composants fournis.&lt;/p&gt;&#xA;&lt;p&gt;Une fois les composants en production, une licence d&amp;rsquo;utilisation pour la maintenance s&amp;rsquo;applique. Elle dépend des composants intégrés et du nombre de professionnels/établissements déployés.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Quelles prestations proposez-vous ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Les prestations proposées par DEVCOOP sont :
-L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution . De l&amp;rsquo;assistance technique pour le développement de vos propres solutions. </description>
+      <description>&lt;p&gt;Les prestations proposées par DEVCOOP sont :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution&lt;/li&gt;&#xA;&lt;li&gt;Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution .&lt;/li&gt;&#xA;&lt;li&gt;De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>Proposez vous des offres SAAS ? Si oui, pour quels composants ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid></guid>
-      <description>Oui, nous proposons une offre SAAS pour la gestion d&amp;rsquo;annuaire. Contactez-nous.</description>
+      <description>&lt;p&gt;Oui, nous proposons une offre SAAS pour la gestion d&amp;rsquo;annuaire. Contactez-nous.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

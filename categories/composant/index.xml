@@ -1,74 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>composant on DevBox santé</title>
+    <title>Composant on DevBox santé</title>
     <link>https://www.devbox-sante.fr/categories/composant/</link>
-    <description>Recent content in composant on DevBox santé</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/categories/composant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Composant on DevBox santé</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://www.devbox-sante.fr/categories/composant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lecture carte CPS / CPx</title>
       <link>https://www.devbox-sante.fr/composants/cps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/cps/</guid>
-      <description>La CPS-API proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, permet d&amp;rsquo;accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.
-Notamment :
-authentifier un utilisateur gérer les différents lecteurs de carte et cartes disponibles gérer l&amp;rsquo;état des lecteurs (carte arrachée) accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 telles que les données d&amp;rsquo;identification de la carte, du porteur de la carte et la liste des situations d&amp;rsquo;exercice.</description>
+      <description>&lt;p&gt;La CPS-API proposée par DEVCOOP au travers d&amp;rsquo;une API Java ou REST, permet d&amp;rsquo;accéder à l&amp;rsquo;ensemble des possibilités de la carte CPS3.&lt;/p&gt;&#xA;&lt;p&gt;Notamment :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;authentifier un utilisateur&lt;/li&gt;&#xA;&lt;li&gt;gérer les différents lecteurs de carte et cartes disponibles&lt;/li&gt;&#xA;&lt;li&gt;gérer l&amp;rsquo;état des lecteurs (carte arrachée)&lt;/li&gt;&#xA;&lt;li&gt;accéder à l&amp;rsquo;ensemble des métadonnées de la carte CPS 3 telles que les données d&amp;rsquo;identification de la carte,&#xA;du porteur de la carte et la liste des situations d&amp;rsquo;exercice.&lt;/li&gt;&#xA;&lt;li&gt;accéder aux différents certificats&lt;/li&gt;&#xA;&lt;li&gt;signer des fichiers binaires&lt;/li&gt;&#xA;&lt;li&gt;signer des fichiers PDF.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;C&amp;rsquo;est l&amp;rsquo;intégration complète de la cryptolib CPS simplifiée.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mobilité ApCV</title>
       <link>https://www.devbox-sante.fr/composants/apcv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/apcv/</guid>
-      <description>L&amp;rsquo;application carte vitale ApCV est une application mobile développée par le GIE SesamVitale. Elle permet au patient de présenter ses informations vitales via son téléphone mobile.
-Intégrer dans votre application la lecture NFC ou la lecture du QRCode disponible dans l&amp;rsquo;application mobile du patient puis accéder au téléservice d&amp;rsquo;authentification ApCV, vous permet d&amp;rsquo;acquérir ces informations de la carte vitale permettant d&amp;rsquo;identifier de manière dématérialiser votre patient au sein de votre application.</description>
+      <description>&lt;p&gt;L&amp;rsquo;application carte vitale ApCV est une application mobile développée par le GIE SesamVitale. Elle permet au patient de présenter ses informations vitales via son téléphone mobile.&lt;/p&gt;&#xA;&lt;p&gt;Intégrer dans votre application la lecture NFC ou la lecture du QRCode disponible dans l&amp;rsquo;application mobile du patient puis accéder au téléservice d&amp;rsquo;authentification ApCV, vous permet d&amp;rsquo;acquérir ces informations de la carte vitale permettant d&amp;rsquo;identifier de manière dématérialiser votre patient au sein de votre application.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mobilité e-CPS / Pro Santé Connect</title>
       <link>https://www.devbox-sante.fr/composants/ecps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/ecps/</guid>
-      <description>Après des expérimentations réussies, nous mettons en œuvre ProSantéConnect au sein de nos solutions SAAS.
-Notre valeur ajoutée :
-Expertise dans la mise en œuvre de solution d&amp;rsquo;authentifiation basée sur ProSantéConnect Prise en compte des possibilités de la e-CPS et de Pro Santé Connect pour les accès aux différents téléservices supportés par la DevBox-Santé Intéressé par l&amp;rsquo;intégration de Pro Santé Connect dans vos applications ? Contactez-nous </description>
+      <description>&lt;p&gt;Après des expérimentations réussies, nous mettons en œuvre ProSantéConnect au sein de nos solutions SAAS.&lt;/p&gt;&#xA;&lt;p&gt;Notre valeur ajoutée :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Expertise dans la mise en œuvre de solution d&amp;rsquo;authentifiation basée sur ProSantéConnect&lt;/li&gt;&#xA;&lt;li&gt;Prise en compte des possibilités de la e-CPS et de Pro Santé Connect pour les accès aux différents téléservices supportés par la DevBox-Santé&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Intéressé par l&amp;rsquo;intégration de Pro Santé Connect dans vos applications ? &lt;a href=&#34;https://www.devbox-sante.fr/contact&#34;&gt;Contactez-nous&lt;/a&gt;&#xA;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Annuaire Santé</title>
       <link>https://www.devbox-sante.fr/composants/annuaire-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/annuaire-sante/</guid>
-      <description>L&amp;rsquo;annuaire santé proposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli . La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv ou encore maitenant via des APIs complexes en FHIR.
-Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.</description>
+      <description>&lt;p&gt;L&amp;rsquo;&lt;a href=&#34;https://annuaire.sante.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;annuaire santé&lt;/a&gt;&#xA; proposé par l&amp;rsquo;ANS est un annuaire qui recense les professionnels de santé et leurs situations d&amp;rsquo;exercice enregistrés dans les répertoires nationaux RPPS et Adeli .&#xA;La consultation de cet annuaire est uniquement possible via leur site web ou via des extractions csv ou encore maitenant via des APIs complexes en FHIR.&lt;/p&gt;&#xA;&lt;p&gt;Afin de palier ce problème, la DevBox santé a intégré les extractions disponibles dans une base spécialisée pour la recherche de document en y intégrant des fonctionnalités supplémentaires.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lecture carte vitale</title>
       <link>https://www.devbox-sante.fr/composants/sesam-vitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/sesam-vitale/</guid>
-      <description>Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.
-La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.
-Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente, la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.</description>
+      <description>&lt;p&gt;Afin d&amp;rsquo;accéder aux informations de la carte vitale, il est nécessaire d&amp;rsquo;utiliser des librairies natives fournies par Sesam-Vitale.&lt;/p&gt;&#xA;&lt;p&gt;La DevBox-Santé-Vitale proposée par DEVCOOP permet de s&amp;rsquo;interfacer avec ces librairies natives au travers d&amp;rsquo;une API de plus haut niveau Java ou REST.&lt;/p&gt;&#xA;&lt;p&gt;Elle prend en charge la détection des lecteurs, la saisie de code pin si une carte professionnel est présente,&#xA;la gestion des insertions/retraits de carte lors d&amp;rsquo;utilisation lecteur mono-fente ou en cas de lecture successive de cartes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Structuration des donnnées de santé</title>
       <link>https://www.devbox-sante.fr/composants/documents-structures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/composants/documents-structures/</guid>
-      <description>Parler de données de santé, implique de connaître un ensemble de normes. Êtes-vous familié des acronymes suivants : MOS, NOS, XDS, FHIR, HL7, HPRIM &amp;hellip;
-Bien sûr, il est possible de construire une application de santé sans les connaitre, mais toute application de santé est vouée à communiquer au sein d&amp;rsquo;un écosystème afin de partager des données entre soignants.
-Partager ces données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.</description>
+      <description>&lt;p&gt;Parler de données de santé, implique de connaître un ensemble de normes. Êtes-vous familié des acronymes suivants : MOS, NOS, XDS, FHIR, HL7, HPRIM &amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Bien sûr, il est possible de construire une application de santé sans les connaitre, mais toute application de santé est vouée à communiquer au sein d&amp;rsquo;un écosystème afin de partager des données entre soignants.&lt;/p&gt;&#xA;&lt;p&gt;Partager ces données au travers de documents structurés permet une meilleure interopérabilité entre les systèmes.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>plateforme on DevBox santé</title>
+    <title>Plateforme on DevBox santé</title>
     <link>https://www.devbox-sante.fr/categories/plateforme/</link>
-    <description>Recent content in plateforme on DevBox santé</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://www.devbox-sante.fr/categories/plateforme/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Plateforme on DevBox santé</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <atom:link href="https://www.devbox-sante.fr/categories/plateforme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plateforme PFI</title>
       <link>https://www.devbox-sante.fr/plateformes/pfi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/plateformes/pfi/</guid>
-      <description>&amp;ldquo;La fonction plateforme d&amp;rsquo;intermédiation (PFI) permet d&amp;rsquo;interconnecter le SIH avec l&amp;rsquo;extérieur (API DMP et MSSanté). Elle peut être intégrée à un DPI, un EAI&amp;hellip;, ou être portée par une solution distincte.&amp;rdquo; (https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi) Nous avons fait le choix de la troisième solution et avons développé à partir des dernières technologies open-sources disponibles (Spring-Boot, MongoDB, Docker) la DevBox-Santé PFI. Elle intègre l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé afin de fournir une implémentation qui va à l&amp;rsquo;essentiel, sans coût d&amp;rsquo;hébergement et de maintenance élevé.</description>
+      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;La fonction plateforme d&amp;rsquo;intermédiation (PFI) permet d&amp;rsquo;interconnecter le SIH avec l&amp;rsquo;extérieur (API DMP et MSSanté). Elle peut être intégrée à un DPI, un EAI&amp;hellip;, ou être portée par une solution distincte.&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;(&lt;a href=&#34;https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi)&lt;/a&gt;&#xA;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nous avons fait le choix de la troisième solution et avons développé à partir des dernières technologies open-sources disponibles (Spring-Boot, MongoDB, Docker) la &lt;strong&gt;DevBox-Santé PFI&lt;/strong&gt;. Elle intègre l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé afin de fournir une implémentation qui va à l&amp;rsquo;essentiel, sans coût d&amp;rsquo;hébergement et de maintenance élevé.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Proxy eSanté</title>
       <link>https://www.devbox-sante.fr/plateformes/proxy-esante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.devbox-sante.fr/plateformes/proxy-esante/</guid>
-      <description>Dans un environnement &amp;ldquo;Dockerisé&amp;rdquo;, La DevBox-santé eProxy vous permet d&amp;rsquo;intégrer l&amp;rsquo;espace de confiance ProSanté Connect. Cette dernière, couplée avec l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé, vous permet de vous interfacer aux différents services socles (INSi, DMP &amp;hellip;) et d&amp;rsquo;obtenir vos agréments CNDA plus rapidement.
-Intégrer l&amp;rsquo;espace de confiance ProSanté Connect en intégrant la DevBox-Santé eProxy permet de :
-simplifier l&amp;rsquo;authentification du professionnel de santé faciliter les usages des services socles augmenter le niveau de sécurité de vos applications répondre aux critères du Ségur Intéressé par l&amp;rsquo;intégration de cette plateforme ?</description>
+      <description>&lt;p&gt;Dans un environnement &amp;ldquo;Dockerisé&amp;rdquo;, La &lt;strong&gt;DevBox-santé eProxy&lt;/strong&gt; vous permet d&amp;rsquo;intégrer l&amp;rsquo;espace de confiance ProSanté Connect.&#xA;Cette dernière, couplée avec l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé, vous permet de vous interfacer aux différents services socles (INSi, DMP &amp;hellip;) et d&amp;rsquo;obtenir vos agréments CNDA plus rapidement.&lt;/p&gt;&#xA;&lt;p&gt;Intégrer l&amp;rsquo;espace de confiance ProSanté Connect en intégrant la &lt;strong&gt;DevBox-Santé eProxy&lt;/strong&gt; permet de :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;simplifier l&amp;rsquo;authentification du professionnel de santé&lt;/li&gt;&#xA;&lt;li&gt;faciliter les usages des services socles&lt;/li&gt;&#xA;&lt;li&gt;augmenter le niveau de sécurité de vos applications&lt;/li&gt;&#xA;&lt;li&gt;répondre aux critères du Ségur&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Intéressé par l&amp;rsquo;intégration de cette plateforme ? &lt;a href=&#34;https://www.devbox-sante.fr/contact&#34;&gt;Contactez-nous&lt;/a&gt;&#xA;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
