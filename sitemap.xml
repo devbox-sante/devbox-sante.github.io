@@ -26,6 +26,10 @@
         <changefreq>monthly</changefreq>
     </url>
     <url>
+        <loc>https://www.devbox-sante.fr/connecteurs/e-prescription/</loc> 
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
         <loc>https://www.devbox-sante.fr/</loc>
         <lastmod>2025-08-01T00:00:00+00:00</lastmod> 
         <changefreq>monthly</changefreq>

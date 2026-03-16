@@ -6,7 +6,15 @@
     <description>Recent content in Categories on DevBox santé</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.devbox-sante.fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testimonial</title>
+      <link>https://www.devbox-sante.fr/categories/testimonial/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.devbox-sante.fr/categories/testimonial/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Composant</title>
       <link>https://www.devbox-sante.fr/categories/composant/</link>

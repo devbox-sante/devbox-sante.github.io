@@ -10,16 +10,37 @@
     <atom:link href="https://www.devbox-sante.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link></link>
+      <link>https://www.devbox-sante.fr/testimonials/bluesoft-vincentburnichon/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid></guid>
+      <guid>https://www.devbox-sante.fr/testimonials/bluesoft-vincentburnichon/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link></link>
+      <link>https://www.devbox-sante.fr/testimonials/ema-cyril-job/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.devbox-sante.fr/testimonials/ema-cyril-job/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quels types de licence proposez-vous ?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
+      <description>&lt;p&gt;Nos composants et connecteurs sont des briques embarquées dans vos solutions, elles font l&amp;rsquo;objet d&amp;rsquo;une licence éditeur annuelle.&lt;/p&gt;&#xA;&lt;p&gt;Une fois les composants en production, la licence d&amp;rsquo;utilisation de maintenance s&amp;rsquo;applique. Son tarif dépend des composants intégrés et du nombre de professionnels/établissements déployés.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.devbox-sante.fr/testimonials/air-sebastien-lecomte/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.devbox-sante.fr/testimonials/air-sebastien-lecomte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.devbox-sante.fr/testimonials/intecmedia-patrick-benichou/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.devbox-sante.fr/testimonials/intecmedia-patrick-benichou/</guid>
       <description></description>
     </item>
     <item>
@@ -27,48 +48,27 @@
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
-      <description>&lt;p&gt;Oui, vous pouvez acheter pour votre société le composant qui vous intéresse.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quel tarif proposez-vous ?</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description>&lt;p&gt;Nos composants et connecteurs sont des briques embarquées dans vos solutions, nous vous fournissons un pack d&amp;rsquo;installation ainsi qu&amp;rsquo;un accompagnement auprès du CNDA s&amp;rsquo;il y a lieu mais aussi un support lors de la mise en production de votre solution. Cette prestation fait l&amp;rsquo;objet d&amp;rsquo;une tarification en fonction des composants fournis.&lt;/p&gt;&#xA;&lt;p&gt;Une fois les composants en production, une licence d&amp;rsquo;utilisation pour la maintenance s&amp;rsquo;applique. Elle dépend des composants intégrés et du nombre de professionnels/établissements déployés.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Oui, vous pouvez prendre une licence pour le(s) composant(s)/connecteur(s)/plateforme(s) qui vous intéresse(nt).&#xA;Vous pouvez ainsi maîtriser votre budget.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link></link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link></link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link></link>
+      <link>https://www.devbox-sante.fr/testimonials/clarisys-laurent-gendt/</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
-      <guid></guid>
+      <guid>https://www.devbox-sante.fr/testimonials/clarisys-laurent-gendt/</guid>
       <description></description>
     </item>
     <item>
-      <title>Quelles prestations proposez-vous ?</title>
+      <title>Quelles prestations sont couvertes par la licence ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
-      <description>&lt;p&gt;Les prestations proposées par DEVCOOP sont :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;L&amp;rsquo;accompagnement auprés du CNDA pour l&amp;rsquo;homologation de votre solution&lt;/li&gt;&#xA;&lt;li&gt;Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution .&lt;/li&gt;&#xA;&lt;li&gt;De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;L&amp;rsquo;acquisition d&amp;rsquo;une licence développeur permet :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;l&amp;rsquo;accès aux livrables multi systèmes d&amp;rsquo;exploitation (Windows64, MacOS, Linux, Docker) en fonction des architectures choisies&lt;/li&gt;&#xA;&lt;li&gt;le support technique de niveau 3 aux différentes équipes de développement et de déploiement de l&amp;rsquo;intégrateur&lt;/li&gt;&#xA;&lt;li&gt;l&amp;rsquo;accompagnement à vos différentes homologations auprès du CNDA, comprenant le rapport de conformité d&amp;rsquo;intégration de l&amp;rsquo;EAI et la disponibilité jour de votre homologation&lt;/li&gt;&#xA;&lt;li&gt;l&amp;rsquo;accompagnement à l&amp;rsquo;agrément Ségur pour les exigences dont les composants de la DevBox-Santé sont con  cernés&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link></link>
+      <link>https://www.devbox-sante.fr/testimonials/gedm-jeremy-chambon/</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-      <guid></guid>
+      <guid>https://www.devbox-sante.fr/testimonials/gedm-jeremy-chambon/</guid>
       <description></description>
     </item>
     <item>
@@ -114,11 +114,11 @@
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;ldquo;La fonction plateforme d&amp;rsquo;intermédiation (PFI) permet d&amp;rsquo;interconnecter le SIH avec l&amp;rsquo;extérieur (API DMP et MSSanté). Elle peut être intégrée à un DPI, un EAI&amp;hellip;, ou être portée par une solution distincte.&amp;rdquo;&lt;/strong&gt;&lt;/em&gt; &lt;em&gt;(&lt;a href=&#34;https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://esante.gouv.fr/faq/quel-est-le-role-de-la-pfi)&lt;/a&gt;&#xA;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nous avons fait le choix de la troisième solution et avons développé à partir des dernières technologies open-sources disponibles (Spring-Boot, MongoDB, Docker) la &lt;strong&gt;DevBox-Santé PFI&lt;/strong&gt;. Elle intègre l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé afin de fournir une implémentation qui va à l&amp;rsquo;essentiel, sans coût d&amp;rsquo;hébergement et de maintenance élevé.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Proposez vous des offres SAAS ? Si oui, pour quels composants ?</title>
+      <title>Proposez vous des offres SAAS ? On premise ?</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
-      <description>&lt;p&gt;Oui, nous proposons une offre SAAS pour la gestion d&amp;rsquo;annuaire. Contactez-nous.&lt;/p&gt;</description>
+      <description>&lt;p&gt;L&amp;rsquo;ensemble des connecteurs et plateformes font l&amp;rsquo;objet de licence on-premise.&lt;/p&gt;&#xA;&lt;p&gt;Nous proposons une offre SAAS pour la gestion d&amp;rsquo;annuaire.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Proxy eSanté</title>
@@ -126,6 +126,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.devbox-sante.fr/plateformes/proxy-esante/</guid>
       <description>&lt;p&gt;Dans un environnement &amp;ldquo;Dockerisé&amp;rdquo;, La &lt;strong&gt;DevBox-santé eProxy&lt;/strong&gt; vous permet d&amp;rsquo;intégrer l&amp;rsquo;espace de confiance ProSanté Connect.&#xA;Cette dernière, couplée avec l&amp;rsquo;ensemble des composants homologués de la DevBox-Santé, vous permet de vous interfacer aux différents services socles (INSi, DMP &amp;hellip;) et d&amp;rsquo;obtenir vos agréments CNDA plus rapidement.&lt;/p&gt;&#xA;&lt;p&gt;Intégrer l&amp;rsquo;espace de confiance ProSanté Connect en intégrant la &lt;strong&gt;DevBox-Santé eProxy&lt;/strong&gt; permet de :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;simplifier l&amp;rsquo;authentification du professionnel de santé&lt;/li&gt;&#xA;&lt;li&gt;faciliter les usages des services socles&lt;/li&gt;&#xA;&lt;li&gt;augmenter le niveau de sécurité de vos applications&lt;/li&gt;&#xA;&lt;li&gt;répondre aux critères du Ségur&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Intéressé par l&amp;rsquo;intégration de cette plateforme ? &lt;a href=&#34;https://www.devbox-sante.fr/contact&#34;&gt;Contactez-nous&lt;/a&gt;&#xA;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Téléservice e-prescription</title>
+      <link>https://www.devbox-sante.fr/connecteurs/e-prescription/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.devbox-sante.fr/connecteurs/e-prescription/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Service socle du « Ségur du numérique en santé », la e-prescription est déployée au travers d’un nouveau service proposé aux professionnels de santé sous le nom d’« ordonnance numérique ». Ce service est directement accessible à partir des logiciels métiers référencés « Ségur ».&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;La &lt;strong&gt;DevBox-santé ePresc&lt;/strong&gt; permet de simplifier l&amp;rsquo;intégration des téléservices d&amp;rsquo;ordonnance numérique: &lt;a href=&#34;https://industriels.sesam-vitale.fr/group/e-prescription&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://industriels.sesam-vitale.fr/group/e-prescription&lt;/a&gt;&#xA; afin de vous faciliter vos agréments SÉGUR.&lt;/p&gt;&#xA;&lt;p&gt;Tout d&amp;rsquo;abord, en s&amp;rsquo;appuyant sur les différents mode d&amp;rsquo;authentification sécurisée de la DevBox-Santé&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -175,6 +182,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
       <description>&lt;p&gt;Réalisation d&amp;rsquo;applications webs et mobiles pour la prise de rendez-vous en ligne avec des professionnels de santé&#xA;mais aussi la téléconsultation, la gestion d&amp;rsquo;agenda et la recherche de praticien géolocalisée.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Proposez-vous des prestations complémentaires ?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;En plus des licences des différents composants/connecteurs/plateformes, DEVCOOP peut proposer des prestations supplémentaires, telles que :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Des développements spécifiques pour l&amp;rsquo;intégration technique de nos composants dans votre solution .&lt;/li&gt;&#xA;&lt;li&gt;De l&amp;rsquo;assistance technique pour le développement de vos propres solutions.&lt;/li&gt;&#xA;&lt;li&gt;Un développement pour un projet de santé.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Structuration des donnnées de santé</title>

@@ -15,6 +15,13 @@
       <description>&lt;p&gt;Le Dossier Médical Partagé (DMP) est un carnet de santé numérique qui conserve et sécurise les informations de santé des patients: traitements, résultats d’examens, allergies&amp;hellip;&#xA;Il permet de partager ces informations avec les professionnels de santé mais aussi au patient au travers de &amp;ldquo;Mon Espace Santé&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Afin de récupérer ou d&amp;rsquo;alimenter ce DMP, les applications et logiciels santé ont besoin de mettre en place un connecteur.&#xA;Vous pouvez décider d&amp;rsquo;implémenter votre propre connecteur en vous appuyant sur les spécifications de Sesam-Vitale et de le maintenir chaque année en fonction des évolutions&#xA;ou de déléguer cette complexité à un éditeur spécialisé.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Téléservice e-prescription</title>
+      <link>https://www.devbox-sante.fr/connecteurs/e-prescription/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.devbox-sante.fr/connecteurs/e-prescription/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Service socle du « Ségur du numérique en santé », la e-prescription est déployée au travers d’un nouveau service proposé aux professionnels de santé sous le nom d’« ordonnance numérique ». Ce service est directement accessible à partir des logiciels métiers référencés « Ségur ».&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;La &lt;strong&gt;DevBox-santé ePresc&lt;/strong&gt; permet de simplifier l&amp;rsquo;intégration des téléservices d&amp;rsquo;ordonnance numérique: &lt;a href=&#34;https://industriels.sesam-vitale.fr/group/e-prescription&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://industriels.sesam-vitale.fr/group/e-prescription&lt;/a&gt;&#xA; afin de vous faciliter vos agréments SÉGUR.&lt;/p&gt;&#xA;&lt;p&gt;Tout d&amp;rsquo;abord, en s&amp;rsquo;appuyant sur les différents mode d&amp;rsquo;authentification sécurisée de la DevBox-Santé&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>MS Santé</title>
       <link>https://www.devbox-sante.fr/connecteurs/ms-sante/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
