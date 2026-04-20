@@ -6,7 +6,7 @@
     <description>Recent content on DevBox santé</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.devbox-sante.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
@@ -34,6 +34,13 @@
       <link>https://www.devbox-sante.fr/testimonials/air-sebastien-lecomte/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://www.devbox-sante.fr/testimonials/air-sebastien-lecomte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.devbox-sante.fr/testimonials/soletys-danier-ricotier-romain-etienne/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.devbox-sante.fr/testimonials/soletys-danier-ricotier-romain-etienne/</guid>
       <description></description>
     </item>
     <item>
@@ -90,7 +97,7 @@
       <link>https://www.devbox-sante.fr/composants/apcv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.devbox-sante.fr/composants/apcv/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;application carte vitale ApCV est une application mobile développée par le GIE SesamVitale. Elle permet au patient de présenter ses informations vitales via son téléphone mobile.&lt;/p&gt;&#xA;&lt;p&gt;Intégrer dans votre application la lecture NFC ou la lecture du QRCode disponible dans l&amp;rsquo;application mobile du patient puis accéder au téléservice d&amp;rsquo;authentification ApCV, vous permet d&amp;rsquo;acquérir ces informations de la carte vitale permettant d&amp;rsquo;identifier de manière dématérialiser votre patient au sein de votre application.&lt;/p&gt;</description>
+      <description>&lt;p&gt;L&amp;rsquo;application carte vitale ApCV est une application mobile développée par le GIE SesamVitale. Elle permet au patient de présenter ses informations vitales via son téléphone mobile.&lt;/p&gt;&#xA;&lt;p&gt;Par la lecture NFC ou par la lecture du QRCode du mobils du patient, votre application identifie le patient au travers du téléservice d&amp;rsquo;authentification ApCV. Votre application accède ainsi aux informations de la carte vitale permettant d&amp;rsquo;identifier de manière dématérialiser votre patient au sein de votre application.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mobilité e-CPS / Pro Santé Connect</title>

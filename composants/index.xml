@@ -19,7 +19,7 @@
       <link>https://www.devbox-sante.fr/composants/apcv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.devbox-sante.fr/composants/apcv/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;application carte vitale ApCV est une application mobile développée par le GIE SesamVitale. Elle permet au patient de présenter ses informations vitales via son téléphone mobile.&lt;/p&gt;&#xA;&lt;p&gt;Intégrer dans votre application la lecture NFC ou la lecture du QRCode disponible dans l&amp;rsquo;application mobile du patient puis accéder au téléservice d&amp;rsquo;authentification ApCV, vous permet d&amp;rsquo;acquérir ces informations de la carte vitale permettant d&amp;rsquo;identifier de manière dématérialiser votre patient au sein de votre application.&lt;/p&gt;</description>
+      <description>&lt;p&gt;L&amp;rsquo;application carte vitale ApCV est une application mobile développée par le GIE SesamVitale. Elle permet au patient de présenter ses informations vitales via son téléphone mobile.&lt;/p&gt;&#xA;&lt;p&gt;Par la lecture NFC ou par la lecture du QRCode du mobils du patient, votre application identifie le patient au travers du téléservice d&amp;rsquo;authentification ApCV. Votre application accède ainsi aux informations de la carte vitale permettant d&amp;rsquo;identifier de manière dématérialiser votre patient au sein de votre application.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mobilité e-CPS / Pro Santé Connect</title>
